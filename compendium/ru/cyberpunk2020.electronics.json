@@ -1,0 +1,56 @@
+{
+	"label": "Личная электроника",
+	"entries": {
+		"Amplifier": {
+			"name": "Amplifier"
+		},
+		"Cab Hailer": {
+			"name": "Cab Hailer"
+		},
+		"Data Chip": {
+			"name": "Data Chip"
+		},
+		"Digital Camera": {
+			"name": "Digital Camera"
+		},
+		"Digital Chip Player": {
+			"name": "Digital Chip Player"
+		},
+		"Digital Music Chip": {
+			"name": "Digital Music Chip"
+		},
+		"Digital Recorder": {
+			"name": "Digital Recorder"
+		},
+		"Drum Synthesizer": {
+			"name": "Drum Synthesizer"
+		},
+		"Electric Guitar": {
+			"name": "Electric Guitar"
+		},
+		"Electronic Keyboard": {
+			"name": "Electronic Keyboard"
+		},
+		"Holo Generator": {
+			"name": "Holo Generator"
+		},
+		"Logcompass": {
+			"name": "Logcompass"
+		},
+		"Pocket TV": {
+			"name": "Pocket TV"
+		},
+		"Video /Audio Tape Player": {
+			"name": "Video /Audio Tape Player"
+		},
+		"Video Board": {
+			"name": "Video Board"
+		},
+		"Video Tape": {
+			"name": "Video Tape"
+		},
+		"VideoCam": {
+			"name": "VideoCam"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"label": "Развлечения",
+	"entries": {
+		"Braindance": {
+			"name": "Braindance"
+		},
+		"Fast Food Meal": {
+			"name": "Fast Food Meal"
+		},
+		"Live Concert": {
+			"name": "Live Concert"
+		},
+		"Live Sports Event": {
+			"name": "Live Sports Event"
+		},
+		"Movie": {
+			"name": "Movie"
+		},
+		"Restaurant Meal Excellent": {
+			"name": "Restaurant Meal Excellent"
+		},
+		"Restaurant Meal Fair": {
+			"name": "Restaurant Meal Fair"
+		},
+		"Restaurant Meal Good": {
+			"name": "Restaurant Meal Good"
+		},
+		"VCR/Chip Rental": {
+			"name": "VCR/Chip Rental"
+		},
+		"Well Drink Excellent": {
+			"name": "Well Drink Excellent"
+		},
+		"Well Drink Fair": {
+			"name": "Well Drink Fair"
+		},
+		"Well Drink Good": {
+			"name": "Well Drink Good"
+		}
+	}
+}

@@ -1,0 +1,83 @@
+{
+	"label": "Безопасность",
+	"entries": {
+		"Cardlock – High Security": {
+			"name": "Cardlock – High Security"
+		},
+		"Cardlock – Low Security": {
+			"name": "Cardlock – Low Security"
+		},
+		"Cardlock – Maximum Security": {
+			"name": "Cardlock – Maximum Security"
+		},
+		"Cardlock – Medium Security": {
+			"name": "Cardlock – Medium Security"
+		},
+		"Code Decryptor": {
+			"name": "Code Decryptor"
+		},
+		"Jamming Transmitter": {
+			"name": "Jamming Transmitter"
+		},
+		"Keylock – High Security": {
+			"name": "Keylock – High Security"
+		},
+		"Keylock – Low Security": {
+			"name": "Keylock – Low Security"
+		},
+		"Keylock – Maximum Security": {
+			"name": "Keylock – Maximum Security"
+		},
+		"Keylock – Medium Security": {
+			"name": "Keylock – Medium Security"
+		},
+		"Line Tap": {
+			"name": "Line Tap"
+		},
+		"Movement Sensor": {
+			"name": "Movement Sensor"
+		},
+		"Passcard": {
+			"name": "Passcard"
+		},
+		"PlasKuffs": {
+			"name": "PlasKuffs"
+		},
+		"Poison Sniffler": {
+			"name": "Poison Sniffler"
+		},
+		"Remote Sensors": {
+			"name": "Remote Sensors"
+		},
+		"Scanner Plate": {
+			"name": "Scanner Plate"
+		},
+		"Security Scanner": {
+			"name": "Security Scanner"
+		},
+		"Stripwire Binders": {
+			"name": "Stripwire Binders"
+		},
+		"Tracer Button": {
+			"name": "Tracer Button"
+		},
+		"Tracking Device": {
+			"name": "Tracking Device"
+		},
+		"Voc Decryptor": {
+			"name": "Voc Decryptor"
+		},
+		"Vocalock – High Security": {
+			"name": "Vocalock – High Security"
+		},
+		"Vocalock – Low Security": {
+			"name": "Vocalock – Low Security"
+		},
+		"Vocalock – Maximum Security": {
+			"name": "Vocalock – Maximum Security"
+		},
+		"Vocalock – Medium Security": {
+			"name": "Vocalock – Medium Security"
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"label": "Медицина",
+	"entries": {
+		"Airhypo": {
+			"name": "Airhypo"
+		},
+		"Cryotank": {
+			"name": "Cryotank"
+		},
+		"Dermal Stapler": {
+			"name": "Dermal Stapler"
+		},
+		"Drug Analyser": {
+			"name": "Drug Analyser"
+		},
+		"Fist Aid Kit": {
+			"name": "Fist Aid Kit"
+		},
+		"Medikit": {
+			"name": "Medikit"
+		},
+		"Medscanner": {
+			"name": "Medscanner"
+		},
+		"Slap Patch": {
+			"name": "Slap Patch"
+		},
+		"Spray Skin": {
+			"name": "Spray Skin"
+		},
+		"Surgical Kit": {
+			"name": "Surgical Kit"
+		}
+	}
+}

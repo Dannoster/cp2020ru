@@ -1,0 +1,275 @@
+{
+	"label": "Основные навыки",
+	"entries": {
+		"Accounting": {
+			"name": "Accounting"
+		},
+		"Aero Tech": {
+			"name": "Aero Tech"
+		},
+		"Anthropology": {
+			"name": "Anthropology"
+		},
+		"Archery": {
+			"name": "Archery"
+		},
+		"Athletics": {
+			"name": "Athletics"
+		},
+		"AV Tech": {
+			"name": "AV Tech"
+		},
+		"Awareness/Notice": {
+			"name": "Awareness/Notice"
+		},
+		"Basic Tech": {
+			"name": "Basic Tech"
+		},
+		"Biology": {
+			"name": "Biology"
+		},
+		"Botany": {
+			"name": "Botany"
+		},
+		"Brawling": {
+			"name": "Brawling"
+		},
+		"Chemistry": {
+			"name": "Chemistry"
+		},
+		"Composition": {
+			"name": "Composition"
+		},
+		"Cryotank Operation": {
+			"name": "Cryotank Operation"
+		},
+		"Cyberdeck Design": {
+			"name": "Cyberdeck Design"
+		},
+		"CyberTech": {
+			"name": "CyberTech"
+		},
+		"Dance": {
+			"name": "Dance"
+		},
+		"Demolitions": {
+			"name": "Demolitions"
+		},
+		"Diagnose Illness": {
+			"name": "Diagnose Illness"
+		},
+		"Disguise": {
+			"name": "Disguise"
+		},
+		"Dodge & Escape": {
+			"name": "Dodge & Escape"
+		},
+		"Driving": {
+			"name": "Driving"
+		},
+		"Education & General Knowledge": {
+			"name": "Education & General Knowledge"
+		},
+		"Electronic Security": {
+			"name": "Electronic Security"
+		},
+		"Electronics": {
+			"name": "Electronics"
+		},
+		"Endurance": {
+			"name": "Endurance"
+		},
+		"Fencing": {
+			"name": "Fencing"
+		},
+		"First Aid": {
+			"name": "First Aid"
+		},
+		"Forgery": {
+			"name": "Forgery"
+		},
+		"Gamble": {
+			"name": "Gamble"
+		},
+		"Geology": {
+			"name": "Geology"
+		},
+		"Gyro Tech": {
+			"name": "Gyro Tech"
+		},
+		"Handgun": {
+			"name": "Handgun"
+		},
+		"Heavy Weapons": {
+			"name": "Heavy Weapons"
+		},
+		"Hide/Evade": {
+			"name": "Hide/Evade"
+		},
+		"History": {
+			"name": "History"
+		},
+		"Human Perception": {
+			"name": "Human Perception"
+		},
+		"Interrogation": {
+			"name": "Interrogation"
+		},
+		"Interview": {
+			"name": "Interview"
+		},
+		"Intimidate": {
+			"name": "Intimidate"
+		},
+		"Leadership": {
+			"name": "Leadership"
+		},
+		"Library Search": {
+			"name": "Library Search"
+		},
+		"Martial Arts: Aikido": {
+			"name": "Martial Arts: Aikido"
+		},
+		"Martial Arts: Animal Kung Fu": {
+			"name": "Martial Arts: Animal Kung Fu"
+		},
+		"Martial Arts: Boxing": {
+			"name": "Martial Arts: Boxing"
+		},
+		"Martial Arts: Capoeira": {
+			"name": "Martial Arts: Capoeira"
+		},
+		"Martial Arts: Choi Li Fut": {
+			"name": "Martial Arts: Choi Li Fut"
+		},
+		"Martial Arts: Judo": {
+			"name": "Martial Arts: Judo"
+		},
+		"Martial Arts: Karate": {
+			"name": "Martial Arts: Karate"
+		},
+		"Martial Arts: Savate": {
+			"name": "Martial Arts: Savate"
+		},
+		"Martial Arts: Tae Kwon Do": {
+			"name": "Martial Arts: Tae Kwon Do"
+		},
+		"Martial Arts: Thai Kickboxing": {
+			"name": "Martial Arts: Thai Kickboxing"
+		},
+		"Martial Arts: Wrestling": {
+			"name": "Martial Arts: Wrestling"
+		},
+		"Mathematics": {
+			"name": "Mathematics"
+		},
+		"Melee": {
+			"name": "Melee"
+		},
+		"Motorcycle": {
+			"name": "Motorcycle"
+		},
+		"Operate Heavy Machinery": {
+			"name": "Operate Heavy Machinery"
+		},
+		"Oratory": {
+			"name": "Oratory"
+		},
+		"Paint or Draw": {
+			"name": "Paint or Draw"
+		},
+		"Perform": {
+			"name": "Perform"
+		},
+		"Personal Grooming": {
+			"name": "Personal Grooming"
+		},
+		"Persuasion & Fast Talk": {
+			"name": "Persuasion & Fast Talk"
+		},
+		"Pharmaceuticals": {
+			"name": "Pharmaceuticals"
+		},
+		"Photo & Film": {
+			"name": "Photo & Film"
+		},
+		"Physics": {
+			"name": "Physics"
+		},
+		"Pick Lock": {
+			"name": "Pick Lock"
+		},
+		"Pick Pocket": {
+			"name": "Pick Pocket"
+		},
+		"Pilot: Dirigible": {
+			"name": "Pilot: Dirigible"
+		},
+		"Pilot: Fixed Wing": {
+			"name": "Pilot: Fixed Wing"
+		},
+		"Pilot: Gyro": {
+			"name": "Pilot: Gyro"
+		},
+		"Pilot: Vectored Thrust Vehicle": {
+			"name": "Pilot: Vectored Thrust Vehicle"
+		},
+		"Play Instrument": {
+			"name": "Play Instrument"
+		},
+		"Programming": {
+			"name": "Programming"
+		},
+		"Resist Torture/Drugs": {
+			"name": "Resist Torture/Drugs"
+		},
+		"Rifle": {
+			"name": "Rifle"
+		},
+		"Seduction": {
+			"name": "Seduction"
+		},
+		"Shadow/Track": {
+			"name": "Shadow/Track"
+		},
+		"Social": {
+			"name": "Social"
+		},
+		"Stealth": {
+			"name": "Stealth"
+		},
+		"Stock Market": {
+			"name": "Stock Market"
+		},
+		"Streetwise": {
+			"name": "Streetwise"
+		},
+		"Strength Feat": {
+			"name": "Strength Feat"
+		},
+		"Submachinegun": {
+			"name": "Submachinegun"
+		},
+		"Swimming": {
+			"name": "Swimming"
+		},
+		"System Knowledge": {
+			"name": "System Knowledge"
+		},
+		"Teaching": {
+			"name": "Teaching"
+		},
+		"Wardrobe & Style": {
+			"name": "Wardrobe & Style"
+		},
+		"Weaponsmith": {
+			"name": "Weaponsmith"
+		},
+		"Wilderness Survival": {
+			"name": "Wilderness Survival"
+		},
+		"Zoology": {
+			"name": "Zoology"
+		}
+	}
+}

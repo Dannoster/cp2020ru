@@ -1,0 +1,86 @@
+{
+	"label": "Банк тел",
+	"entries": {
+		"Selling – Arm – Excellent Condition": {
+			"name": "Selling – Arm – Excellent Condition"
+		},
+		"Selling – Arm – Normal Condition": {
+			"name": "Selling – Arm – Normal Condition"
+		},
+		"Selling – Arm – Poor Condition": {
+			"name": "Selling – Arm – Poor Condition"
+		},
+		"Selling – Ears  – Normal Condition": {
+			"name": "Selling – Ears  – Normal Condition"
+		},
+		"Selling – Ears – Excellent Condition": {
+			"name": "Selling – Ears – Excellent Condition"
+		},
+		"Selling – Ears – Poor Condition": {
+			"name": "Selling – Ears – Poor Condition"
+		},
+		"Selling – Eyes – Excellent Condition": {
+			"name": "Selling – Eyes – Excellent Condition"
+		},
+		"Selling – Eyes – Normal Condition": {
+			"name": "Selling – Eyes – Normal Condition"
+		},
+		"Selling – Eyes – Poor Condition": {
+			"name": "Selling – Eyes – Poor Condition"
+		},
+		"Selling – Heart – Excellent Condition": {
+			"name": "Selling – Heart – Excellent Condition"
+		},
+		"Selling – Heart – Normal Condition": {
+			"name": "Selling – Heart – Normal Condition"
+		},
+		"Selling – Heart – Poor Condition": {
+			"name": "Selling – Heart – Poor Condition"
+		},
+		"Selling – Kidney – Excellent Condition": {
+			"name": "Selling – Kidney – Excellent Condition"
+		},
+		"Selling – Kidney – Normal Condition": {
+			"name": "Selling – Kidney – Normal Condition"
+		},
+		"Selling – Kidney – Poor Condition": {
+			"name": "Selling – Kidney – Poor Condition"
+		},
+		"Selling – Leg – Excellent Condition": {
+			"name": "Selling – Leg – Excellent Condition"
+		},
+		"Selling – Leg – Normal Condition": {
+			"name": "Selling – Leg – Normal Condition"
+		},
+		"Selling – Leg – Poor Condition": {
+			"name": "Selling – Leg – Poor Condition"
+		},
+		"Selling – Liver – Excellent Condition": {
+			"name": "Selling – Liver – Excellent Condition"
+		},
+		"Selling – Liver – Normal Condition": {
+			"name": "Selling – Liver – Normal Condition"
+		},
+		"Selling – Liver – Poor Condition": {
+			"name": "Selling – Liver – Poor Condition"
+		},
+		"Selling – Lung – Excellent Condition": {
+			"name": "Selling – Lung – Excellent Condition"
+		},
+		"Selling – Lung – Normal Condition": {
+			"name": "Selling – Lung – Normal Condition"
+		},
+		"Selling – Lung – Poor Condition": {
+			"name": "Selling – Lung – Poor Condition"
+		},
+		"Selling – Other Organs – Excellent Condition": {
+			"name": "Selling – Other Organs – Excellent Condition"
+		},
+		"Selling – Other Organs – Normal Condition": {
+			"name": "Selling – Other Organs – Normal Condition"
+		},
+		"Selling – Other Organs – Poor Condition": {
+			"name": "Selling – Other Organs – Poor Condition"
+		}
+	}
+}

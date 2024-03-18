@@ -1,0 +1,35 @@
+{
+	"label": "Связь",
+	"entries": {
+		"Advanced Communication Suitcase": {
+			"name": "Advanced Communication Suitcase"
+		},
+		"Advanced Communication Suitcase with short-wave radio": {
+			"name": "Advanced Communication Suitcase with short-wave radio"
+		},
+		"Cellular Phone": {
+			"name": "Cellular Phone"
+		},
+		"Line Tap Detector": {
+			"name": "Line Tap Detector"
+		},
+		"Linozap": {
+			"name": "Linozap"
+		},
+		"Mastoid Commo": {
+			"name": "Mastoid Commo"
+		},
+		"Mini Cell Phone": {
+			"name": "Mini Cell Phone"
+		},
+		"Office Communication Suite": {
+			"name": "Office Communication Suite"
+		},
+		"Office Communication Suite with Vid System": {
+			"name": "Office Communication Suite with Vid System"
+		},
+		"Pocket Commo": {
+			"name": "Pocket Commo"
+		}
+	}
+}

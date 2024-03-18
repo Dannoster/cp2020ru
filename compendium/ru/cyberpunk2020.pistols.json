@@ -1,0 +1,1019 @@
+{
+	"label": "Пистолеты",
+	"entries": {
+		".44 Bulldog": {
+			"name": ".44 Bulldog"
+		},
+		"454 Magnum Disposable": {
+			"name": "454 Magnum Disposable"
+		},
+		"AMT Automag V": {
+			"name": "AMT Automag V"
+		},
+		"Arasaka 253": {
+			"name": "Arasaka 253"
+		},
+		"Arasaka C740": {
+			"name": "Arasaka C740"
+		},
+		"Arasaka Guardian": {
+			"name": "Arasaka Guardian"
+		},
+		"Arasaka LEH-451": {
+			"name": "Arasaka LEH-451"
+		},
+		"Arasaka Marson": {
+			"name": "Arasaka Marson"
+		},
+		"Arasaka P-237": {
+			"name": "Arasaka P-237"
+		},
+		"Arasaka Urban": {
+			"name": "Arasaka Urban"
+		},
+		"Arasaka WSA Autopistol": {
+			"name": "Arasaka WSA Autopistol"
+		},
+		"Arasaka Zenith": {
+			"name": "Arasaka Zenith"
+		},
+		"Ares Light Fire 70": {
+			"name": "Ares Light Fire 70"
+		},
+		"Ares Light Fire GZ": {
+			"name": "Ares Light Fire GZ"
+		},
+		"Ares Predator": {
+			"name": "Ares Predator"
+		},
+		"Ares Predator GZ": {
+			"name": "Ares Predator GZ"
+		},
+		"Armalite 44": {
+			"name": "Armalite 44"
+		},
+		"Armalite CCPP-48": {
+			"name": "Armalite CCPP-48"
+		},
+		"Armalite Knuckgun": {
+			"name": "Armalite Knuckgun"
+		},
+		"Armalite Poly .41": {
+			"name": "Armalite Poly .41"
+		},
+		"Armalite Thoroughbred": {
+			"name": "Armalite Thoroughbred"
+		},
+		"Astra A-100": {
+			"name": "Astra A-100"
+		},
+		"Astra Magnum": {
+			"name": "Astra Magnum"
+		},
+		"Astra Style-6": {
+			"name": "Astra Style-6"
+		},
+		"Benelli B76": {
+			"name": "Benelli B76"
+		},
+		"Benelli MP-95E Kromo": {
+			"name": "Benelli MP-95E Kromo"
+		},
+		"Beretta 84": {
+			"name": "Beretta 84"
+		},
+		"Beretta 86": {
+			"name": "Beretta 86"
+		},
+		"Beretta 87": {
+			"name": "Beretta 87"
+		},
+		"Beretta 9000S": {
+			"name": "Beretta 9000S"
+		},
+		"Beretta 90Two": {
+			"name": "Beretta 90Two"
+		},
+		"Beretta 92FS": {
+			"name": "Beretta 92FS"
+		},
+		"Beretta 93R": {
+			"name": "Beretta 93R"
+		},
+		"Beretta 97P": {
+			"name": "Beretta 97P"
+		},
+		"Beretta DI-57 Ferro": {
+			"name": "Beretta DI-57 Ferro"
+		},
+		"Beretta M1934": {
+			"name": "Beretta M1934"
+		},
+		"Beretta M2015-A": {
+			"name": "Beretta M2015-A"
+		},
+		"Beretta M951": {
+			"name": "Beretta M951"
+		},
+		"Beretta Model 101-T": {
+			"name": "Beretta Model 101-T"
+		},
+		"Beretta Model 110-T": {
+			"name": "Beretta Model 110-T"
+		},
+		"Beretta Model 357S": {
+			"name": "Beretta Model 357S"
+		},
+		"Beretta PLAS 9 Fashion Gun": {
+			"name": "Beretta PLAS 9 Fashion Gun"
+		},
+		"Beretta TDX": {
+			"name": "Beretta TDX"
+		},
+		"Beretta-Luigi Franchi M-93V Lynx": {
+			"name": "Beretta-Luigi Franchi M-93V Lynx"
+		},
+		"Budget Arms Auto-3": {
+			"name": "Budget Arms Auto-3"
+		},
+		"Budget Arms C-41": {
+			"name": "Budget Arms C-41"
+		},
+		"Budget Arms C13": {
+			"name": "Budget Arms C13"
+		},
+		"Bul M5 Commander": {
+			"name": "Bul M5 Commander"
+		},
+		"Ceska Zbrojovka CZ 100": {
+			"name": "Ceska Zbrojovka CZ 100"
+		},
+		"Ceska Zbrojovka CZ 105": {
+			"name": "Ceska Zbrojovka CZ 105"
+		},
+		"Ceska Zbrojovka CZ 75": {
+			"name": "Ceska Zbrojovka CZ 75"
+		},
+		"Ceska Zbrojovka CZ 85": {
+			"name": "Ceska Zbrojovka CZ 85"
+		},
+		"Ceska Zbrojovka CZ 97B": {
+			"name": "Ceska Zbrojovka CZ 97B"
+		},
+		"Ceska Zbrojovka Pengu": {
+			"name": "Ceska Zbrojovka Pengu"
+		},
+		"Ceska Zbrojovka VZ-120": {
+			"name": "Ceska Zbrojovka VZ-120"
+		},
+		"Charter Arms Undercover": {
+			"name": "Charter Arms Undercover"
+		},
+		"Colt .38 Detective": {
+			"name": "Colt .38 Detective"
+		},
+		"Colt .45 M1911 A7": {
+			"name": "Colt .45 M1911 A7"
+		},
+		"Colt .45 Peacemaker": {
+			"name": "Colt .45 Peacemaker"
+		},
+		"Colt Ace": {
+			"name": "Colt Ace"
+		},
+		"Colt Alpha-Omega 10 mm": {
+			"name": "Colt Alpha-Omega 10 mm"
+		},
+		"Colt American L36": {
+			"name": "Colt American L36"
+		},
+		"Colt Anaconda": {
+			"name": "Colt Anaconda"
+		},
+		"Colt ASP .38": {
+			"name": "Colt ASP .38"
+		},
+		"Colt Commander": {
+			"name": "Colt Commander"
+		},
+		"Colt Defender": {
+			"name": "Colt Defender"
+		},
+		"Colt Dragoon Deluxe": {
+			"name": "Colt Dragoon Deluxe"
+		},
+		"Colt Enforcement 10 Sidearm": {
+			"name": "Colt Enforcement 10 Sidearm"
+		},
+		"Colt Gecko": {
+			"name": "Colt Gecko"
+		},
+		"Colt King Cobra": {
+			"name": "Colt King Cobra"
+		},
+		"Colt Larr Ted": {
+			"name": "Colt Larr Ted"
+		},
+		"Colt M36": {
+			"name": "Colt M36"
+		},
+		"Colt Manhunter": {
+			"name": "Colt Manhunter"
+		},
+		"Colt Model AMT 2000": {
+			"name": "Colt Model AMT 2000"
+		},
+		"Colt Pittbull": {
+			"name": "Colt Pittbull"
+		},
+		"Colt Python .357 Magnum": {
+			"name": "Colt Python .357 Magnum"
+		},
+		"Colt Renaissance": {
+			"name": "Colt Renaissance"
+		},
+		"Colt Seeder": {
+			"name": "Colt Seeder"
+		},
+		"Colt Urban Guerilla": {
+			"name": "Colt Urban Guerilla"
+		},
+		"Colt-Seburo DNP-5": {
+			"name": "Colt-Seburo DNP-5"
+		},
+		"Constitutional Arms 454 Magnum": {
+			"name": "Constitutional Arms 454 Magnum"
+		},
+		"Constitutional Arms Bronco": {
+			"name": "Constitutional Arms Bronco"
+		},
+		"Constitutional Arms CA-PMM": {
+			"name": "Constitutional Arms CA-PMM"
+		},
+		"Constitutional Arms Mygal": {
+			"name": "Constitutional Arms Mygal"
+		},
+		"Constitutional Arms Revo": {
+			"name": "Constitutional Arms Revo"
+		},
+		"Constitutional Arms Stub": {
+			"name": "Constitutional Arms Stub"
+		},
+		"Coonan Pistol": {
+			"name": "Coonan Pistol"
+		},
+		"Cop .357 Derringer": {
+			"name": "Cop .357 Derringer"
+		},
+		"Cop .44 Derringer": {
+			"name": "Cop .44 Derringer"
+		},
+		"Cyberdyn M238": {
+			"name": "Cyberdyn M238"
+		},
+		"Daewoo DP-17": {
+			"name": "Daewoo DP-17"
+		},
+		"Daewoo DP-51": {
+			"name": "Daewoo DP-51"
+		},
+		"Dai Lung Bala": {
+			"name": "Dai Lung Bala"
+		},
+		"Dai Lung CRP-22": {
+			"name": "Dai Lung CRP-22"
+		},
+		"Dai Lung Cybermag 15": {
+			"name": "Dai Lung Cybermag 15"
+		},
+		"Dai Lung Gangmaster": {
+			"name": "Dai Lung Gangmaster"
+		},
+		"Dai Lung Han": {
+			"name": "Dai Lung Han"
+		},
+		"Dai Lung Magnum": {
+			"name": "Dai Lung Magnum"
+		},
+		"Dai Lung Streetmaster": {
+			"name": "Dai Lung Streetmaster"
+		},
+		"Dan Wesson 445 SuperMag": {
+			"name": "Dan Wesson 445 SuperMag"
+		},
+		"Dan Wesson Pistol Pack": {
+			"name": "Dan Wesson Pistol Pack"
+		},
+		"Defiant Derringer": {
+			"name": "Defiant Derringer"
+		},
+		"DefiantConcealPocket Lint": {
+			"name": "DefiantConcealPocket Lint"
+		},
+		"Downsizer Mini Pistol": {
+			"name": "Downsizer Mini Pistol"
+		},
+		"Dutch Arms Longfellow": {
+			"name": "Dutch Arms Longfellow"
+		},
+		"Eagletech 20-Pipe": {
+			"name": "Eagletech 20-Pipe"
+		},
+		"Espinoza One Shot": {
+			"name": "Espinoza One Shot"
+		},
+		"Fabrica de Armas AVP-11": {
+			"name": "Fabrica de Armas AVP-11"
+		},
+		"Fabrica de Armas GP-80": {
+			"name": "Fabrica de Armas GP-80"
+		},
+		"Federated Arms 454 DA Super Chief": {
+			"name": "Federated Arms 454 DA Super Chief"
+		},
+		"Federated Arms Cheesemaker": {
+			"name": "Federated Arms Cheesemaker"
+		},
+		"Federated Arms CS 831A": {
+			"name": "Federated Arms CS 831A"
+		},
+		"Federated Arms Impact": {
+			"name": "Federated Arms Impact"
+		},
+		"Federated Arms X-22": {
+			"name": "Federated Arms X-22"
+		},
+		"Federated Arms X-38": {
+			"name": "Federated Arms X-38"
+		},
+		"Federated Arms X-9 mm": {
+			"name": "Federated Arms X-9 mm"
+		},
+		"FEG P9R": {
+			"name": "FEG P9R"
+		},
+		"FN Browning .25": {
+			"name": "FN Browning .25"
+		},
+		"FN Browning Archos": {
+			"name": "FN Browning Archos"
+		},
+		"FN Browning High-Power": {
+			"name": "FN Browning High-Power"
+		},
+		"FN Browning Ultra-Power": {
+			"name": "FN Browning Ultra-Power"
+		},
+		"FN Five-seveN": {
+			"name": "FN Five-seveN"
+		},
+		"FN Forty-Nine": {
+			"name": "FN Forty-Nine"
+		},
+		"FN HP-DAO Compact": {
+			"name": "FN HP-DAO Compact"
+		},
+		"FN M8 Ghosthawk": {
+			"name": "FN M8 Ghosthawk"
+		},
+		"FN OPA-38": {
+			"name": "FN OPA-38"
+		},
+		"Freedom Arms .454 Casull": {
+			"name": "Freedom Arms .454 Casull"
+		},
+		"Geind D-640": {
+			"name": "Geind D-640"
+		},
+		"Geind EL-528": {
+			"name": "Geind EL-528"
+		},
+		"Geind EL-552": {
+			"name": "Geind EL-552"
+		},
+		"Geind EL-631": {
+			"name": "Geind EL-631"
+		},
+		"Geind EL-645": {
+			"name": "Geind EL-645"
+		},
+		"Glock 17": {
+			"name": "Glock 17"
+		},
+		"Glock 18C": {
+			"name": "Glock 18C"
+		},
+		"Glock 18C Spear": {
+			"name": "Glock 18C Spear"
+		},
+		"Glock 25": {
+			"name": "Glock 25"
+		},
+		"Glock 26": {
+			"name": "Glock 26"
+		},
+		"Glock 30": {
+			"name": "Glock 30"
+		},
+		"Glock G33 AV": {
+			"name": "Glock G33 AV"
+		},
+		"Goncz-Taurus Micro 12": {
+			"name": "Goncz-Taurus Micro 12"
+		},
+		"Goncz-Taurus Pistol": {
+			"name": "Goncz-Taurus Pistol"
+		},
+		"Hammerli Model 610S": {
+			"name": "Hammerli Model 610S"
+		},
+		"Heckler & Koch C823": {
+			"name": "Heckler & Koch C823"
+		},
+		"Heckler & Koch DEF-3": {
+			"name": "Heckler & Koch DEF-3"
+		},
+		"Heckler & Koch HK-4": {
+			"name": "Heckler & Koch HK-4"
+		},
+		"Heckler & Koch Ikarus 432J": {
+			"name": "Heckler & Koch Ikarus 432J"
+		},
+		"Heckler & Koch Majestic-12": {
+			"name": "Heckler & Koch Majestic-12"
+		},
+		"Heckler & Koch Mk.23": {
+			"name": "Heckler & Koch Mk.23"
+		},
+		"Heckler & Koch MP-505": {
+			"name": "Heckler & Koch MP-505"
+		},
+		"Heckler & Koch NS-7": {
+			"name": "Heckler & Koch NS-7"
+		},
+		"Heckler & Koch P-18": {
+			"name": "Heckler & Koch P-18"
+		},
+		"Heckler & Koch P2000": {
+			"name": "Heckler & Koch P2000"
+		},
+		"Heckler & Koch P68": {
+			"name": "Heckler & Koch P68"
+		},
+		"Heckler & Koch P7": {
+			"name": "Heckler & Koch P7"
+		},
+		"Heckler & Koch P9S": {
+			"name": "Heckler & Koch P9S"
+		},
+		"Heckler & Koch S350 Sturmer": {
+			"name": "Heckler & Koch S350 Sturmer"
+		},
+		"Heckler & Koch SX-45": {
+			"name": "Heckler & Koch SX-45"
+		},
+		"Heckler & Koch USP": {
+			"name": "Heckler & Koch USP"
+		},
+		"Heckler & Koch USP Tactical": {
+			"name": "Heckler & Koch USP Tactical"
+		},
+		"Heckler & Koch VP 70": {
+			"name": "Heckler & Koch VP 70"
+		},
+		"Heckler & Koch VP-101": {
+			"name": "Heckler & Koch VP-101"
+		},
+		"High Standard Derringer": {
+			"name": "High Standard Derringer"
+		},
+		"IMI Desert Eagle": {
+			"name": "IMI Desert Eagle"
+		},
+		"IMI Gamad It. Pistol Dwarf": {
+			"name": "IMI Gamad It. Pistol Dwarf"
+		},
+		"IMI Gideon": {
+			"name": "IMI Gideon"
+		},
+		"IMI Jericho 941": {
+			"name": "IMI Jericho 941"
+		},
+		"IMI Jericho 941 Compact": {
+			"name": "IMI Jericho 941 Compact"
+		},
+		"IMI Jericho 942FS": {
+			"name": "IMI Jericho 942FS"
+		},
+		"Kalashnikov AK12 Oktober": {
+			"name": "Kalashnikov AK12 Oktober"
+		},
+		"Kamaha Khali": {
+			"name": "Kamaha Khali"
+		},
+		"Kang Tao Type 108": {
+			"name": "Kang Tao Type 108"
+		},
+		"Kang Tao Type 97": {
+			"name": "Kang Tao Type 97"
+		},
+		"KBP Udar": {
+			"name": "KBP Udar"
+		},
+		"Kel-Tec P-11": {
+			"name": "Kel-Tec P-11"
+		},
+		"Korth Pistol": {
+			"name": "Korth Pistol"
+		},
+		"Kovrov AEK-906 Nosorog": {
+			"name": "Kovrov AEK-906 Nosorog"
+		},
+		"LAR Grizzly": {
+			"name": "LAR Grizzly"
+		},
+		"Leroi Maxi 10": {
+			"name": "Leroi Maxi 10"
+		},
+		"Llama Comanche V.44 Magnum": {
+			"name": "Llama Comanche V.44 Magnum"
+		},
+		"Lucznik Radom LRP-234": {
+			"name": "Lucznik Radom LRP-234"
+		},
+		"Luger Parabellum P-08": {
+			"name": "Luger Parabellum P-08"
+		},
+		"Luigi Franchi Gavil HVS-06": {
+			"name": "Luigi Franchi Gavil HVS-06"
+		},
+		"Luigi Franchi Gavil Z11": {
+			"name": "Luigi Franchi Gavil Z11"
+		},
+		"Luigi Franchi Gentleman's Duo": {
+			"name": "Luigi Franchi Gentleman's Duo"
+		},
+		"Luigi Franchi Nobleman": {
+			"name": "Luigi Franchi Nobleman"
+		},
+		"Luigi Franchi Princess": {
+			"name": "Luigi Franchi Princess"
+		},
+		"Luigi Franchi Tigre": {
+			"name": "Luigi Franchi Tigre"
+		},
+		"Makarov PM": {
+			"name": "Makarov PM"
+		},
+		"Malorian Arms MXConcealPocket": {
+			"name": "Malorian Arms MXConcealPocket"
+		},
+		"Malorian Arms PPM-721": {
+			"name": "Malorian Arms PPM-721"
+		},
+		"Manurhin MR-73": {
+			"name": "Manurhin MR-73"
+		},
+		"MAS 12 Sniper Gun": {
+			"name": "MAS 12 Sniper Gun"
+		},
+		"MAS M50": {
+			"name": "MAS M50"
+		},
+		"Mateba Ithaqua": {
+			"name": "Mateba Ithaqua"
+		},
+		"Mateba Model 207": {
+			"name": "Mateba Model 207"
+		},
+		"Mateba Model 208": {
+			"name": "Mateba Model 208"
+		},
+		"Mateba Model 720": {
+			"name": "Mateba Model 720"
+		},
+		"Mauser C96": {
+			"name": "Mauser C96"
+		},
+		"Mauser Cthugha": {
+			"name": "Mauser Cthugha"
+		},
+		"Militech A226 Shooter": {
+			"name": "Militech A226 Shooter"
+		},
+		"Militech Avenger": {
+			"name": "Militech Avenger"
+		},
+		"Militech Boomer Buster .477": {
+			"name": "Militech Boomer Buster .477"
+		},
+		"Militech Crusher SSG": {
+			"name": "Militech Crusher SSG"
+		},
+		"Militech Naja .50": {
+			"name": "Militech Naja .50"
+		},
+		"Militech P-343": {
+			"name": "Militech P-343"
+		},
+		"Militech RNA-12": {
+			"name": "Militech RNA-12"
+		},
+		"Militech Two-Step": {
+			"name": "Militech Two-Step"
+		},
+		"Modele Mod 9": {
+			"name": "Modele Mod 9"
+		},
+		"MSP": {
+			"name": "MSP"
+		},
+		"Mustang Arms Mark II": {
+			"name": "Mustang Arms Mark II"
+		},
+		"Mustang Arms Oshi-592": {
+			"name": "Mustang Arms Oshi-592"
+		},
+		"Mustang Arms Whisper": {
+			"name": "Mustang Arms Whisper"
+		},
+		"Mustang Arms Whisper II": {
+			"name": "Mustang Arms Whisper II"
+		},
+		"Navy Arms Mamba": {
+			"name": "Navy Arms Mamba"
+		},
+		"Nomad .357 Magnum Autoloader": {
+			"name": "Nomad .357 Magnum Autoloader"
+		},
+		"Nomad .357 Magnum Revolver": {
+			"name": "Nomad .357 Magnum Revolver"
+		},
+		"Nomad .44 Magnum Revolver": {
+			"name": "Nomad .44 Magnum Revolver"
+		},
+		"Norinco Eduardo": {
+			"name": "Norinco Eduardo"
+		},
+		"Norinco Model 77B": {
+			"name": "Norinco Model 77B"
+		},
+		"Norinco Type 77": {
+			"name": "Norinco Type 77"
+		},
+		"Norinco Type 80": {
+			"name": "Norinco Type 80"
+		},
+		"Norse Technologies Hoggspjot": {
+			"name": "Norse Technologies Hoggspjot"
+		},
+		"Nova Arms Citygun": {
+			"name": "Nova Arms Citygun"
+		},
+		"Nova Arms Midget": {
+			"name": "Nova Arms Midget"
+		},
+		"Nova Arms Model 757 Cityhunter": {
+			"name": "Nova Arms Model 757 Cityhunter"
+		},
+		"Nova Arms Otto": {
+			"name": "Nova Arms Otto"
+		},
+		"Nova Arms Sphex .38": {
+			"name": "Nova Arms Sphex .38"
+		},
+		"Nova Arms Stallone": {
+			"name": "Nova Arms Stallone"
+		},
+		"Nova ArmsConcealPocket": {
+			"name": "Nova ArmsConcealPocket"
+		},
+		"OTs-20 Gnome": {
+			"name": "OTs-20 Gnome"
+		},
+		"OTs-21 Malysh": {
+			"name": "OTs-21 Malysh"
+		},
+		"OTs-23 Drotik": {
+			"name": "OTs-23 Drotik"
+		},
+		"OTs-27 Berdysh": {
+			"name": "OTs-27 Berdysh"
+		},
+		"OTs-33 Pernach": {
+			"name": "OTs-33 Pernach"
+		},
+		"P96M": {
+			"name": "P96M"
+		},
+		"PSM": {
+			"name": "PSM"
+		},
+		"PSS": {
+			"name": "PSS"
+		},
+		"R-92KS": {
+			"name": "R-92KS"
+		},
+		"Remington Handcannon": {
+			"name": "Remington Handcannon"
+		},
+		"Ruger Bison": {
+			"name": "Ruger Bison"
+		},
+		"Ruger Colonial": {
+			"name": "Ruger Colonial"
+		},
+		"Ruger GP100": {
+			"name": "Ruger GP100"
+		},
+		"Ruger Lawmaster": {
+			"name": "Ruger Lawmaster"
+		},
+		"Ruger MK II": {
+			"name": "Ruger MK II"
+		},
+		"Ruger Ranger": {
+			"name": "Ruger Ranger"
+		},
+		"Ruger SP-101": {
+			"name": "Ruger SP-101"
+		},
+		"Ruger Super Redhawk": {
+			"name": "Ruger Super Redhawk"
+		},
+		"Savalette Guardian": {
+			"name": "Savalette Guardian"
+		},
+		"SCI Black Skull": {
+			"name": "SCI Black Skull"
+		},
+		"SCI Corsair .22": {
+			"name": "SCI Corsair .22"
+		},
+		"SCI Little Joe": {
+			"name": "SCI Little Joe"
+		},
+		"SCI Starrior 4": {
+			"name": "SCI Starrior 4"
+		},
+		"Seburo 6X6": {
+			"name": "Seburo 6X6"
+		},
+		"Seburo Bobsons": {
+			"name": "Seburo Bobsons"
+		},
+		"Seburo C-X": {
+			"name": "Seburo C-X"
+		},
+		"Seburo M-5": {
+			"name": "Seburo M-5"
+		},
+		"Seburo Mandrake": {
+			"name": "Seburo Mandrake"
+		},
+		"Seburo S-30": {
+			"name": "Seburo S-30"
+		},
+		"Seburo TTA": {
+			"name": "Seburo TTA"
+		},
+		"Seburo Yoshino": {
+			"name": "Seburo Yoshino"
+		},
+		"Seco LD-120": {
+			"name": "Seco LD-120"
+		},
+		"Sig Sauer P210-2": {
+			"name": "Sig Sauer P210-2"
+		},
+		"Sig Sauer P220": {
+			"name": "Sig Sauer P220"
+		},
+		"Sig Sauer P225": {
+			"name": "Sig Sauer P225"
+		},
+		"Sig Sauer P226": {
+			"name": "Sig Sauer P226"
+		},
+		"Sig Sauer P228": {
+			"name": "Sig Sauer P228"
+		},
+		"Sig Sauer P229": {
+			"name": "Sig Sauer P229"
+		},
+		"Sig Sauer P230": {
+			"name": "Sig Sauer P230"
+		},
+		"Sig Sauer P245": {
+			"name": "Sig Sauer P245"
+		},
+		"Sig Sauer P250 DCc": {
+			"name": "Sig Sauer P250 DCc"
+		},
+		"Sig Sauer SP2022": {
+			"name": "Sig Sauer SP2022"
+		},
+		"Sig Sauer SP2340": {
+			"name": "Sig Sauer SP2340"
+		},
+		"Smith & Wesson 6040C": {
+			"name": "Smith & Wesson 6040C"
+		},
+		"Smith & Wesson Beefeater": {
+			"name": "Smith & Wesson Beefeater"
+		},
+		"Smith & Wesson Bully": {
+			"name": "Smith & Wesson Bully"
+		},
+		"Smith & Wesson Coldsnap": {
+			"name": "Smith & Wesson Coldsnap"
+		},
+		"Smith & Wesson Combat Magnum Mod. 29": {
+			"name": "Smith & Wesson Combat Magnum Mod. 29"
+		},
+		"Smith & Wesson Combat Magnum Mod. 66": {
+			"name": "Smith & Wesson Combat Magnum Mod. 66"
+		},
+		"Smith & Wesson Duno": {
+			"name": "Smith & Wesson Duno"
+		},
+		"Smith & Wesson LP4": {
+			"name": "Smith & Wesson LP4"
+		},
+		"Smith & Wesson Mod. 286": {
+			"name": "Smith & Wesson Mod. 286"
+		},
+		"Smith & Wesson PS-3": {
+			"name": "Smith & Wesson PS-3"
+		},
+		"Smith & Wesson Sigma": {
+			"name": "Smith & Wesson Sigma"
+		},
+		"Smith & Wesson Sigma Compact": {
+			"name": "Smith & Wesson Sigma Compact"
+		},
+		"Spitfire Battle Pistol 12 mm": {
+			"name": "Spitfire Battle Pistol 12 mm"
+		},
+		"Star M-205 Ultrastar": {
+			"name": "Star M-205 Ultrastar"
+		},
+		"Star M-45 Firestar": {
+			"name": "Star M-45 Firestar"
+		},
+		"Star Megastar": {
+			"name": "Star Megastar"
+		},
+		"Stechkin APS": {
+			"name": "Stechkin APS"
+		},
+		"Stein & Wasserman Bi-Power Handcannon": {
+			"name": "Stein & Wasserman Bi-Power Handcannon"
+		},
+		"Stein & Wasserman M2009": {
+			"name": "Stein & Wasserman M2009"
+		},
+		"Stein & Wasserman Tri-Star": {
+			"name": "Stein & Wasserman Tri-Star"
+		},
+		"Sternmeyer Luxus-45": {
+			"name": "Sternmeyer Luxus-45"
+		},
+		"Sternmeyer Type 35": {
+			"name": "Sternmeyer Type 35"
+		},
+		"Sternmeyer Type 41": {
+			"name": "Sternmeyer Type 41"
+		},
+		"Sternmeyer Type 82": {
+			"name": "Sternmeyer Type 82"
+		},
+		"Steyr GB80": {
+			"name": "Steyr GB80"
+		},
+		"Stolvoboy ST2": {
+			"name": "Stolvoboy ST2"
+		},
+		"Streetline Special": {
+			"name": "Streetline Special"
+		},
+		"StreetTech Burst": {
+			"name": "StreetTech Burst"
+		},
+		"Surprising Stranger": {
+			"name": "Surprising Stranger"
+		},
+		"SVI Infinity": {
+			"name": "SVI Infinity"
+		},
+		"Taurus M608": {
+			"name": "Taurus M608"
+		},
+		"Taurus Raging Bull": {
+			"name": "Taurus Raging Bull"
+		},
+		"Taurus Raging Hornet": {
+			"name": "Taurus Raging Hornet"
+		},
+		"TDE Auto-Mag .44": {
+			"name": "TDE Auto-Mag .44"
+		},
+		"Texas Arms .44 Enforcer": {
+			"name": "Texas Arms .44 Enforcer"
+		},
+		"Texas Arms Grinder": {
+			"name": "Texas Arms Grinder"
+		},
+		"Texhofforhov Rush .10": {
+			"name": "Texhofforhov Rush .10"
+		},
+		"Texhofforhov Tzar": {
+			"name": "Texhofforhov Tzar"
+		},
+		"Tohiatsu Intruder 11 mm": {
+			"name": "Tohiatsu Intruder 11 mm"
+		},
+		"Tohiatsu Silencer": {
+			"name": "Tohiatsu Silencer"
+		},
+		"Tokarev TT-33": {
+			"name": "Tokarev TT-33"
+		},
+		"Towa HB-10": {
+			"name": "Towa HB-10"
+		},
+		"Towa Type 12 Police Pistol": {
+			"name": "Towa Type 12 Police Pistol"
+		},
+		"Towa Type 14 Police Pistol": {
+			"name": "Towa Type 14 Police Pistol"
+		},
+		"Tsniitochmash 6P35": {
+			"name": "Tsniitochmash 6P35"
+		},
+		"Tsunami Arms CLAB-4": {
+			"name": "Tsunami Arms CLAB-4"
+		},
+		"Tsunami Arms CRP-22": {
+			"name": "Tsunami Arms CRP-22"
+		},
+		"Tsunami Arms Express Racegun": {
+			"name": "Tsunami Arms Express Racegun"
+		},
+		"Tsunami Arms Lexman": {
+			"name": "Tsunami Arms Lexman"
+		},
+		"UrbanTech Cal-20 Pistol": {
+			"name": "UrbanTech Cal-20 Pistol"
+		},
+		"Vektor CP1": {
+			"name": "Vektor CP1"
+		},
+		"Vektor SP1": {
+			"name": "Vektor SP1"
+		},
+		"Voros": {
+			"name": "Voros"
+		},
+		"Walther 915": {
+			"name": "Walther 915"
+		},
+		"Walther Charon M2": {
+			"name": "Walther Charon M2"
+		},
+		"Walther P5": {
+			"name": "Walther P5"
+		},
+		"Walther P88": {
+			"name": "Walther P88"
+		},
+		"Walther P99": {
+			"name": "Walther P99"
+		},
+		"Walther PB-120": {
+			"name": "Walther PB-120"
+		},
+		"Walther PP Super": {
+			"name": "Walther PP Super"
+		},
+		"Walther PPK": {
+			"name": "Walther PPK"
+		},
+		"Walther TEP-94": {
+			"name": "Walther TEP-94"
+		},
+		"Weihrauch Arminius Vindicator": {
+			"name": "Weihrauch Arminius Vindicator"
+		},
+		"Yarygin MP-443 Grach": {
+			"name": "Yarygin MP-443 Grach"
+		},
+		"Yesaul": {
+			"name": "Yesaul"
+		},
+		"Zip Gun": {
+			"name": "Zip Gun"
+		}
+	}
+}

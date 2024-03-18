@@ -1,0 +1,20 @@
+{
+	"label": "Наблюдение",
+	"entries": {
+		"Binoculars": {
+			"name": "Binoculars"
+		},
+		"Binoglasses": {
+			"name": "Binoglasses"
+		},
+		"IR Flash": {
+			"name": "IR Flash"
+		},
+		"IR Googles": {
+			"name": "IR Googles"
+		},
+		"Light Booster Googles": {
+			"name": "Light Booster Googles"
+		}
+	}
+}

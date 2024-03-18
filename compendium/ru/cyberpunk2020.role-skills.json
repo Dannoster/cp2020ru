@@ -1,0 +1,35 @@
+{
+	"label": "Профессиональные навыки",
+	"entries": {
+		"Authority": {
+			"name": "Authority"
+		},
+		"Charismatic Leadership": {
+			"name": "Charismatic Leadership"
+		},
+		"Combat Sense": {
+			"name": "Combat Sense"
+		},
+		"Credibility": {
+			"name": "Credibility"
+		},
+		"Family": {
+			"name": "Family"
+		},
+		"Interface": {
+			"name": "Interface"
+		},
+		"Jury Rig": {
+			"name": "Jury Rig"
+		},
+		"Medical Tech": {
+			"name": "Medical Tech"
+		},
+		"Resources": {
+			"name": "Resources"
+		},
+		"Streetdeal": {
+			"name": "Streetdeal"
+		}
+	}
+}

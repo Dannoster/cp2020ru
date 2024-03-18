@@ -1,0 +1,44 @@
+{
+	"label": "Сетевое оборудование",
+	"entries": {
+		"BodyWeight Life/Support": {
+			"name": "BodyWeight Life/Support"
+		},
+		"Cellular Cybermodem": {
+			"name": "Cellular Cybermodem"
+		},
+		"Combat Assault Deck": {
+			"name": "Combat Assault Deck"
+		},
+		"Cyberdeck Portable": {
+			"name": "Cyberdeck Portable"
+		},
+		"Cyberlimbed Deck": {
+			"name": "Cyberlimbed Deck"
+		},
+		"Cybermodem": {
+			"name": "Cybermodem"
+		},
+		"Interface Cables": {
+			"name": "Interface Cables"
+		},
+		"Keyboard": {
+			"name": "Keyboard"
+		},
+		"Laptop Computer": {
+			"name": "Laptop Computer"
+		},
+		"Low Impedance Cables": {
+			"name": "Low Impedance Cables"
+		},
+		"Pocket Computer": {
+			"name": "Pocket Computer"
+		},
+		"Terminal": {
+			"name": "Terminal"
+		},
+		"Trode Set": {
+			"name": "Trode Set"
+		}
+	}
+}

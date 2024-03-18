@@ -1,0 +1,53 @@
+{
+	"label": "Транспорт",
+	"entries": {
+		"CityCar": {
+			"name": "CityCar"
+		},
+		"CityCar with Cybercontrols": {
+			"name": "CityCar with Cybercontrols"
+		},
+		"Luxury Sedan": {
+			"name": "Luxury Sedan"
+		},
+		"Luxury Sedan with Cybercontrols": {
+			"name": "Luxury Sedan with Cybercontrols"
+		},
+		"Medium Sedan": {
+			"name": "Medium Sedan"
+		},
+		"Medium Sedan with Cybercontrols": {
+			"name": "Medium Sedan with Cybercontrols"
+		},
+		"Motorcycle": {
+			"name": "Motorcycle"
+		},
+		"Motorcycle – Upgraded": {
+			"name": "Motorcycle – Upgraded"
+		},
+		"Motorcycle – Upgraded with Cybercontrols": {
+			"name": "Motorcycle – Upgraded with Cybercontrols"
+		},
+		"Motorcycle with Cybercontrols": {
+			"name": "Motorcycle with Cybercontrols"
+		},
+		"Scooter": {
+			"name": "Scooter"
+		},
+		"Scooter with Cybercontrols": {
+			"name": "Scooter with Cybercontrols"
+		},
+		"Small Subcompact": {
+			"name": "Small Subcompact"
+		},
+		"Small Subcompact with Cybercontrols": {
+			"name": "Small Subcompact with Cybercontrols"
+		},
+		"Sportscar": {
+			"name": "Sportscar"
+		},
+		"Sportscar with Cybercontrols": {
+			"name": "Sportscar with Cybercontrols"
+		}
+	}
+}

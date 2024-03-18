@@ -1,0 +1,29 @@
+{
+	"label": "Пистолеты-пулемёты",
+	"entries": {
+		"Arasaka Minami 10": {
+			"name": "Arasaka Minami 10"
+		},
+		"Federated Arms Tech Assault II": {
+			"name": "Federated Arms Tech Assault II"
+		},
+		"Heckler & Koch MP-2013": {
+			"name": "Heckler & Koch MP-2013"
+		},
+		"Heckler & Koch MPK-11": {
+			"name": "Heckler & Koch MPK-11"
+		},
+		"Heckler & Koch MPK-9": {
+			"name": "Heckler & Koch MPK-9"
+		},
+		"Ingram MAC 14": {
+			"name": "Ingram MAC 14"
+		},
+		"Sternmeyer SMG 21": {
+			"name": "Sternmeyer SMG 21"
+		},
+		"Uzi Miniauto 9": {
+			"name": "Uzi Miniauto 9"
+		}
+	}
+}

@@ -1,0 +1,125 @@
+{
+	"label": "Жильё и Образ жизни",
+	"entries": {
+		"Air": {
+			"name": "Air"
+		},
+		"Appartment/Condo – Combat Zone": {
+			"name": "Appartment/Condo – Combat Zone"
+		},
+		"Appartment/Condo – Corporate Zone": {
+			"name": "Appartment/Condo – Corporate Zone"
+		},
+		"Appartment/Condo – Executive Zone": {
+			"name": "Appartment/Condo – Executive Zone"
+		},
+		"Appartment/Condo – Moderate Zone": {
+			"name": "Appartment/Condo – Moderate Zone"
+		},
+		"AV-Taxi": {
+			"name": "AV-Taxi"
+		},
+		"Cab Hailer Activationfee": {
+			"name": "Cab Hailer Activationfee"
+		},
+		"Cable TV": {
+			"name": "Cable TV"
+		},
+		"Cell Phone Service": {
+			"name": "Cell Phone Service"
+		},
+		"CHOOH²": {
+			"name": "CHOOH²"
+		},
+		"Clinic Visit": {
+			"name": "Clinic Visit"
+		},
+		"Clone Limb Replacement": {
+			"name": "Clone Limb Replacement"
+		},
+		"Coffin – Combat Zone": {
+			"name": "Coffin – Combat Zone"
+		},
+		"Coffin – Corporate Zone": {
+			"name": "Coffin – Corporate Zone"
+		},
+		"Coffin – Executive Zone": {
+			"name": "Coffin – Executive Zone"
+		},
+		"Coffin – Moderate Zone": {
+			"name": "Coffin – Moderate Zone"
+		},
+		"CredChip Account": {
+			"name": "CredChip Account"
+		},
+		"Data Term Use": {
+			"name": "Data Term Use"
+		},
+		"Day in Hospital": {
+			"name": "Day in Hospital"
+		},
+		"Day in Intensive Care": {
+			"name": "Day in Intensive Care"
+		},
+		"Fastcharge": {
+			"name": "Fastcharge"
+		},
+		"Fresh Food": {
+			"name": "Fresh Food"
+		},
+		"Generic Prepak": {
+			"name": "Generic Prepak"
+		},
+		"Good Prepak": {
+			"name": "Good Prepak"
+		},
+		"Health Plan": {
+			"name": "Health Plan"
+		},
+		"Hotel Room – Combat Zone": {
+			"name": "Hotel Room – Combat Zone"
+		},
+		"Hotel Room – Corporate Zone": {
+			"name": "Hotel Room – Corporate Zone"
+		},
+		"Hotel Room – Executive Zone": {
+			"name": "Hotel Room – Executive Zone"
+		},
+		"Hotel Room – Moderate Zone": {
+			"name": "Hotel Room – Moderate Zone"
+		},
+		"House – Combat Zone": {
+			"name": "House – Combat Zone"
+		},
+		"House – Corporate Zone": {
+			"name": "House – Corporate Zone"
+		},
+		"House – Executive Zone": {
+			"name": "House – Executive Zone"
+		},
+		"House – Moderate Zone": {
+			"name": "House – Moderate Zone"
+		},
+		"Kibble": {
+			"name": "Kibble"
+		},
+		"Mag Lev Chit": {
+			"name": "Mag Lev Chit"
+		},
+		"PayPhone Call": {
+			"name": "PayPhone Call"
+		},
+		"Standard Phone Service": {
+			"name": "Standard Phone Service"
+		},
+		"Taxi": {
+			"name": "Taxi"
+		},
+		"Trauma Team Acct": {
+			"name": "Trauma Team Acct"
+		},
+		"Utilities": {
+			"name": "Utilities"
+		}
+	}
+}

@@ -1,0 +1,614 @@
+{
+	"label": "Чипы",
+	"entries": {
+		"Accounting +1": {
+			"name": "Accounting +1"
+		},
+		"Accounting +2": {
+			"name": "Accounting +2"
+		},
+		"Accounting +3": {
+			"name": "Accounting +3"
+		},
+		"Adrenaline/Endorphin Surge": {
+			"name": "Adrenaline/Endorphin Surge"
+		},
+		"Aero Tech +1": {
+			"name": "Aero Tech +1"
+		},
+		"Aero Tech +2": {
+			"name": "Aero Tech +2"
+		},
+		"Aero Tech +3": {
+			"name": "Aero Tech +3"
+		},
+		"AmbidexterityChip": {
+			"name": "AmbidexterityChip"
+		},
+		"Anthropology +1": {
+			"name": "Anthropology +1"
+		},
+		"Anthropology +2": {
+			"name": "Anthropology +2"
+		},
+		"Anthropology +3": {
+			"name": "Anthropology +3"
+		},
+		"Archery +1": {
+			"name": "Archery +1"
+		},
+		"Archery +2": {
+			"name": "Archery +2"
+		},
+		"Archery +3": {
+			"name": "Archery +3"
+		},
+		"Auditory Recognition I Chips": {
+			"name": "Auditory Recognition I Chips"
+		},
+		"Auditory Recognition II Chips": {
+			"name": "Auditory Recognition II Chips"
+		},
+		"AV Tech +1": {
+			"name": "AV Tech +1"
+		},
+		"AV Tech +2": {
+			"name": "AV Tech +2"
+		},
+		"AV Tech +3": {
+			"name": "AV Tech +3"
+		},
+		"Basic Tech +1": {
+			"name": "Basic Tech +1"
+		},
+		"Basic Tech +2": {
+			"name": "Basic Tech +2"
+		},
+		"Basic Tech +3": {
+			"name": "Basic Tech +3"
+		},
+		"Biology +1": {
+			"name": "Biology +1"
+		},
+		"Biology +2": {
+			"name": "Biology +2"
+		},
+		"Biology +3": {
+			"name": "Biology +3"
+		},
+		"Botany +1": {
+			"name": "Botany +1"
+		},
+		"Botany +2": {
+			"name": "Botany +2"
+		},
+		"Botany +3": {
+			"name": "Botany +3"
+		},
+		"Business Trip Chip": {
+			"name": "Business Trip Chip"
+		},
+		"Chemistry +1": {
+			"name": "Chemistry +1"
+		},
+		"Chemistry +2": {
+			"name": "Chemistry +2"
+		},
+		"Chemistry +3": {
+			"name": "Chemistry +3"
+		},
+		"ChipLok": {
+			"name": "ChipLok"
+		},
+		"Cookie Cutter": {
+			"name": "Cookie Cutter"
+		},
+		"Courier Chip": {
+			"name": "Courier Chip"
+		},
+		"Cryotank Operation +1": {
+			"name": "Cryotank Operation +1"
+		},
+		"Cryotank Operation +2": {
+			"name": "Cryotank Operation +2"
+		},
+		"Cryotank Operation +3": {
+			"name": "Cryotank Operation +3"
+		},
+		"Crypto Chips": {
+			"name": "Crypto Chips"
+		},
+		"Cyber Tech +1": {
+			"name": "Cyber Tech +1"
+		},
+		"Cyber Tech +2": {
+			"name": "Cyber Tech +2"
+		},
+		"Cyber Tech +3": {
+			"name": "Cyber Tech +3"
+		},
+		"Cyberdeck Design +1": {
+			"name": "Cyberdeck Design +1"
+		},
+		"Cyberdeck Design +2": {
+			"name": "Cyberdeck Design +2"
+		},
+		"Cyberdeck Design +3": {
+			"name": "Cyberdeck Design +3"
+		},
+		"Dance +1": {
+			"name": "Dance +1"
+		},
+		"Dance +2": {
+			"name": "Dance +2"
+		},
+		"Dance +3": {
+			"name": "Dance +3"
+		},
+		"Daytlmer Chip": {
+			"name": "Daytlmer Chip"
+		},
+		"Death Trance": {
+			"name": "Death Trance"
+		},
+		"Demolitions +1": {
+			"name": "Demolitions +1"
+		},
+		"Demolitions +2": {
+			"name": "Demolitions +2"
+		},
+		"Demolitions +3": {
+			"name": "Demolitions +3"
+		},
+		"Digi-Tone ID": {
+			"name": "Digi-Tone ID"
+		},
+		"Disguise +1": {
+			"name": "Disguise +1"
+		},
+		"Disguise +2": {
+			"name": "Disguise +2"
+		},
+		"Disguise +3": {
+			"name": "Disguise +3"
+		},
+		"Dream Suppressant Chip": {
+			"name": "Dream Suppressant Chip"
+		},
+		"Driving +1": {
+			"name": "Driving +1"
+		},
+		"Driving +2": {
+			"name": "Driving +2"
+		},
+		"Driving +3": {
+			"name": "Driving +3"
+		},
+		"Education & Cen.Know. +1": {
+			"name": "Education & Cen.Know. +1"
+		},
+		"Education & Cen.Know. +2": {
+			"name": "Education & Cen.Know. +2"
+		},
+		"Education & Cen.Know. +3": {
+			"name": "Education & Cen.Know. +3"
+		},
+		"Elect. Security +1": {
+			"name": "Elect. Security +1"
+		},
+		"Elect. Security +2": {
+			"name": "Elect. Security +2"
+		},
+		"Elect. Security +3": {
+			"name": "Elect. Security +3"
+		},
+		"Electronics +1": {
+			"name": "Electronics +1"
+		},
+		"Electronics +2": {
+			"name": "Electronics +2"
+		},
+		"Electronics +3": {
+			"name": "Electronics +3"
+		},
+		"Facedown Chip": {
+			"name": "Facedown Chip"
+		},
+		"Fencing +1": {
+			"name": "Fencing +1"
+		},
+		"Fencing +2": {
+			"name": "Fencing +2"
+		},
+		"Fencing +3": {
+			"name": "Fencing +3"
+		},
+		"First Aid +1": {
+			"name": "First Aid +1"
+		},
+		"First Aid +2": {
+			"name": "First Aid +2"
+		},
+		"First Aid +3": {
+			"name": "First Aid +3"
+		},
+		"Fish N' Chips": {
+			"name": "Fish N' Chips"
+		},
+		"Forgery +1": {
+			"name": "Forgery +1"
+		},
+		"Forgery +2": {
+			"name": "Forgery +2"
+		},
+		"Forgery +3": {
+			"name": "Forgery +3"
+		},
+		"Geology +1": {
+			"name": "Geology +1"
+		},
+		"Geology +2": {
+			"name": "Geology +2"
+		},
+		"Geology +3": {
+			"name": "Geology +3"
+		},
+		"Gyro Tech +1": {
+			"name": "Gyro Tech +1"
+		},
+		"Gyro Tech +2": {
+			"name": "Gyro Tech +2"
+		},
+		"Gyro Tech +3": {
+			"name": "Gyro Tech +3"
+		},
+		"Handgun +1": {
+			"name": "Handgun +1"
+		},
+		"Handgun +2": {
+			"name": "Handgun +2"
+		},
+		"Handgun +3": {
+			"name": "Handgun +3"
+		},
+		"Heavy Weapons +1": {
+			"name": "Heavy Weapons +1"
+		},
+		"Heavy Weapons +2": {
+			"name": "Heavy Weapons +2"
+		},
+		"Heavy Weapons +3": {
+			"name": "Heavy Weapons +3"
+		},
+		"History +1": {
+			"name": "History +1"
+		},
+		"History +2": {
+			"name": "History +2"
+		},
+		"History +3": {
+			"name": "History +3"
+		},
+		"Home Chip": {
+			"name": "Home Chip"
+		},
+		"Honey Pilar": {
+			"name": "Honey Pilar"
+		},
+		"Increased Neural Feedback": {
+			"name": "Increased Neural Feedback"
+		},
+		"Independent Action Chip": {
+			"name": "Independent Action Chip"
+		},
+		"James Bond": {
+			"name": "James Bond"
+		},
+		"Kick Ass": {
+			"name": "Kick Ass"
+		},
+		"Language (choose) +1": {
+			"name": "Language (choose) +1"
+		},
+		"Language (choose) +2": {
+			"name": "Language (choose) +2"
+		},
+		"Language (choose) +3": {
+			"name": "Language (choose) +3"
+		},
+		"M.O. Chips": {
+			"name": "M.O. Chips"
+		},
+		"Martial Art (choose) +1": {
+			"name": "Martial Art (choose) +1"
+		},
+		"Martial Art (choose) +2": {
+			"name": "Martial Art (choose) +2"
+		},
+		"Martial Art (choose) +3": {
+			"name": "Martial Art (choose) +3"
+		},
+		"Mathematics +1": {
+			"name": "Mathematics +1"
+		},
+		"Mathematics +2": {
+			"name": "Mathematics +2"
+		},
+		"Mathematics +3": {
+			"name": "Mathematics +3"
+		},
+		"Maximum Lover Chip": {
+			"name": "Maximum Lover Chip"
+		},
+		"Melee +1": {
+			"name": "Melee +1"
+		},
+		"Melee +2": {
+			"name": "Melee +2"
+		},
+		"Melee +3": {
+			"name": "Melee +3"
+		},
+		"Memory Compression": {
+			"name": "Memory Compression"
+		},
+		"Mind Games": {
+			"name": "Mind Games"
+		},
+		"Motorcycle +1": {
+			"name": "Motorcycle +1"
+		},
+		"Motorcycle +2": {
+			"name": "Motorcycle +2"
+		},
+		"Motorcycle +3": {
+			"name": "Motorcycle +3"
+		},
+		"MRAM MemoryChips": {
+			"name": "MRAM MemoryChips"
+		},
+		"Navigation/Orientation Chip": {
+			"name": "Navigation/Orientation Chip"
+		},
+		"Operate Hvy. Machinery +1": {
+			"name": "Operate Hvy. Machinery +1"
+		},
+		"Operate Hvy. Machinery +2": {
+			"name": "Operate Hvy. Machinery +2"
+		},
+		"Operate Hvy. Machinery +3": {
+			"name": "Operate Hvy. Machinery +3"
+		},
+		"Perfect Soldier": {
+			"name": "Perfect Soldier"
+		},
+		"Personal Grooming +1": {
+			"name": "Personal Grooming +1"
+		},
+		"Personal Grooming +2": {
+			"name": "Personal Grooming +2"
+		},
+		"Personal Grooming +3": {
+			"name": "Personal Grooming +3"
+		},
+		"Pharmaceuticals +1": {
+			"name": "Pharmaceuticals +1"
+		},
+		"Pharmaceuticals +2": {
+			"name": "Pharmaceuticals +2"
+		},
+		"Pharmaceuticals +3": {
+			"name": "Pharmaceuticals +3"
+		},
+		"Photo Memory RAM Chip": {
+			"name": "Photo Memory RAM Chip"
+		},
+		"Physics +1": {
+			"name": "Physics +1"
+		},
+		"Physics +2": {
+			"name": "Physics +2"
+		},
+		"Physics +3": {
+			"name": "Physics +3"
+		},
+		"Pick lock +1": {
+			"name": "Pick lock +1"
+		},
+		"Pick lock +2": {
+			"name": "Pick lock +2"
+		},
+		"Pick lock +3": {
+			"name": "Pick lock +3"
+		},
+		"Pick Pocket +1": {
+			"name": "Pick Pocket +1"
+		},
+		"Pick Pocket +2": {
+			"name": "Pick Pocket +2"
+		},
+		"Pick Pocket +3": {
+			"name": "Pick Pocket +3"
+		},
+		"Pilot (Dirigible) +1": {
+			"name": "Pilot (Dirigible) +1"
+		},
+		"Pilot (Dirigible) +2": {
+			"name": "Pilot (Dirigible) +2"
+		},
+		"Pilot (Dirigible) +3": {
+			"name": "Pilot (Dirigible) +3"
+		},
+		"Pilot (Fixed Wing) +1": {
+			"name": "Pilot (Fixed Wing) +1"
+		},
+		"Pilot (Fixed Wing) +2": {
+			"name": "Pilot (Fixed Wing) +2"
+		},
+		"Pilot (Fixed Wing) +3": {
+			"name": "Pilot (Fixed Wing) +3"
+		},
+		"Pilot (Gyro) +1": {
+			"name": "Pilot (Gyro) +1"
+		},
+		"Pilot (Gyro) +2": {
+			"name": "Pilot (Gyro) +2"
+		},
+		"Pilot (Gyro) +3": {
+			"name": "Pilot (Gyro) +3"
+		},
+		"Pilot (Vect.ThrustVehlcle) +1": {
+			"name": "Pilot (Vect.ThrustVehlcle) +1"
+		},
+		"Pilot (Vect.ThrustVehlcle) +2": {
+			"name": "Pilot (Vect.ThrustVehlcle) +2"
+		},
+		"Pilot (Vect.ThrustVehlcle) +3": {
+			"name": "Pilot (Vect.ThrustVehlcle) +3"
+		},
+		"Play Instrument +1": {
+			"name": "Play Instrument +1"
+		},
+		"Play Instrument +2": {
+			"name": "Play Instrument +2"
+		},
+		"Play Instrument +3": {
+			"name": "Play Instrument +3"
+		},
+		"Police Visual Rec Chip": {
+			"name": "Police Visual Rec Chip"
+		},
+		"Poser Impersonation Chip": {
+			"name": "Poser Impersonation Chip"
+		},
+		"Programmable Chipware": {
+			"name": "Programmable Chipware"
+		},
+		"Programming +1": {
+			"name": "Programming +1"
+		},
+		"Programming +2": {
+			"name": "Programming +2"
+		},
+		"Programming +3": {
+			"name": "Programming +3"
+		},
+		"Redundancy Loop": {
+			"name": "Redundancy Loop"
+		},
+		"Rifle +1": {
+			"name": "Rifle +1"
+		},
+		"Rifle +2": {
+			"name": "Rifle +2"
+		},
+		"Rifle +3": {
+			"name": "Rifle +3"
+		},
+		"Security Chips": {
+			"name": "Security Chips"
+		},
+		"Shape Recognition": {
+			"name": "Shape Recognition"
+		},
+		"SomaWare Sleep Induction Chip": {
+			"name": "SomaWare Sleep Induction Chip"
+		},
+		"Space Chip": {
+			"name": "Space Chip"
+		},
+		"Special Operative Chip": {
+			"name": "Special Operative Chip"
+		},
+		"Speedreading Chip": {
+			"name": "Speedreading Chip"
+		},
+		"Stock Market +1": {
+			"name": "Stock Market +1"
+		},
+		"Stock Market +2": {
+			"name": "Stock Market +2"
+		},
+		"Stock Market +3": {
+			"name": "Stock Market +3"
+		},
+		"Stress Chip": {
+			"name": "Stress Chip"
+		},
+		"Stutter Chipping": {
+			"name": "Stutter Chipping"
+		},
+		"Subdermal Moddy Rack": {
+			"name": "Subdermal Moddy Rack"
+		},
+		"Submachlnegun +1": {
+			"name": "Submachlnegun +1"
+		},
+		"Submachlnegun +2": {
+			"name": "Submachlnegun +2"
+		},
+		"Submachlnegun +3": {
+			"name": "Submachlnegun +3"
+		},
+		"Sunny Day": {
+			"name": "Sunny Day"
+		},
+		"Swimming +1": {
+			"name": "Swimming +1"
+		},
+		"Swimming +2": {
+			"name": "Swimming +2"
+		},
+		"Swimming +3": {
+			"name": "Swimming +3"
+		},
+		"Tourism Chip": {
+			"name": "Tourism Chip"
+		},
+		"Visual Recognition Chips": {
+			"name": "Visual Recognition Chips"
+		},
+		"Wardrobe & Style +1": {
+			"name": "Wardrobe & Style +1"
+		},
+		"Wardrobe & Style +2": {
+			"name": "Wardrobe & Style +2"
+		},
+		"Wardrobe & Style +3": {
+			"name": "Wardrobe & Style +3"
+		},
+		"Weaponmasters Martial Art Chip": {
+			"name": "Weaponmasters Martial Art Chip"
+		},
+		"Weaponsmlth +1": {
+			"name": "Weaponsmlth +1"
+		},
+		"Weaponsmlth +2": {
+			"name": "Weaponsmlth +2"
+		},
+		"Weaponsmlth +3": {
+			"name": "Weaponsmlth +3"
+		},
+		"Wilderness Survival +1": {
+			"name": "Wilderness Survival +1"
+		},
+		"Wilderness Survival +2": {
+			"name": "Wilderness Survival +2"
+		},
+		"Wilderness Survival +3": {
+			"name": "Wilderness Survival +3"
+		},
+		"Xarghis Khan": {
+			"name": "Xarghis Khan"
+		},
+		"Zoology +1": {
+			"name": "Zoology +1"
+		},
+		"Zoology +2": {
+			"name": "Zoology +2"
+		},
+		"Zoology +3": {
+			"name": "Zoology +3"
+		}
+	}
+}

@@ -1,0 +1,1196 @@
+{
+	"label": "Винтовки",
+	"entries": {
+		"9A-91": {
+			"name": "9A-91"
+		},
+		"AA-12": {
+			"name": "AA-12"
+		},
+		"AEK-971": {
+			"name": "AEK-971"
+		},
+		"AI Arctic Warfare": {
+			"name": "AI Arctic Warfare"
+		},
+		"AI L96": {
+			"name": "AI L96"
+		},
+		"AMD-65": {
+			"name": "AMD-65"
+		},
+		"AN-94 Abakan": {
+			"name": "AN-94 Abakan"
+		},
+		"Arasaka 77TA-20": {
+			"name": "Arasaka 77TA-20"
+		},
+		"Arasaka AR-629": {
+			"name": "Arasaka AR-629"
+		},
+		"Arasaka BAR-54": {
+			"name": "Arasaka BAR-54"
+		},
+		"Arasaka BOX-4": {
+			"name": "Arasaka BOX-4"
+		},
+		"Arasaka JDF-AR": {
+			"name": "Arasaka JDF-AR"
+		},
+		"Arasaka Kai": {
+			"name": "Arasaka Kai"
+		},
+		"Arasaka LBR-84": {
+			"name": "Arasaka LBR-84"
+		},
+		"Arasaka Rapid Assault 12": {
+			"name": "Arasaka Rapid Assault 12"
+		},
+		"Arasaka SA-456": {
+			"name": "Arasaka SA-456"
+		},
+		"Arasaka SA-460": {
+			"name": "Arasaka SA-460"
+		},
+		"Arasaka Storm": {
+			"name": "Arasaka Storm"
+		},
+		"Arasaka WAA Bullpup": {
+			"name": "Arasaka WAA Bullpup"
+		},
+		"Arasaka WSSA Sniper System": {
+			"name": "Arasaka WSSA Sniper System"
+		},
+		"Arasaka XS-40": {
+			"name": "Arasaka XS-40"
+		},
+		"Armalite AR-18": {
+			"name": "Armalite AR-18"
+		},
+		"Armalite AR10": {
+			"name": "Armalite AR10"
+		},
+		"Armalite URM-7": {
+			"name": "Armalite URM-7"
+		},
+		"Armalon PR": {
+			"name": "Armalon PR"
+		},
+		"Armsel Protecta": {
+			"name": "Armsel Protecta"
+		},
+		"AS Val": {
+			"name": "AS Val"
+		},
+		"Australian Ammo Glarr": {
+			"name": "Australian Ammo Glarr"
+		},
+		"Baikal MP-131K": {
+			"name": "Baikal MP-131K"
+		},
+		"Benelli M1 Super 90": {
+			"name": "Benelli M1 Super 90"
+		},
+		"Benelli M3 Super 90": {
+			"name": "Benelli M3 Super 90"
+		},
+		"Benelli M4 Super 90": {
+			"name": "Benelli M4 Super 90"
+		},
+		"Benelli Nova": {
+			"name": "Benelli Nova"
+		},
+		"Beretta AR70-90": {
+			"name": "Beretta AR70-90"
+		},
+		"Beretta BM59": {
+			"name": "Beretta BM59"
+		},
+		"Beretta M3P": {
+			"name": "Beretta M3P"
+		},
+		"Beretta Sniper": {
+			"name": "Beretta Sniper"
+		},
+		"Blunderbuss": {
+			"name": "Blunderbuss"
+		},
+		"Budget Arms Claws": {
+			"name": "Budget Arms Claws"
+		},
+		"Budget Arms FF20": {
+			"name": "Budget Arms FF20"
+		},
+		"Budget Arms Leslie": {
+			"name": "Budget Arms Leslie"
+		},
+		"Budget Arms S-40": {
+			"name": "Budget Arms S-40"
+		},
+		"Bushmaster M-17S": {
+			"name": "Bushmaster M-17S"
+		},
+		"CCMMC Jinhua M-7": {
+			"name": "CCMMC Jinhua M-7"
+		},
+		"CCMMC KS-32": {
+			"name": "CCMMC KS-32"
+		},
+		"CCMMC KS-36": {
+			"name": "CCMMC KS-36"
+		},
+		"CCMMC QI-15": {
+			"name": "CCMMC QI-15"
+		},
+		"Ceska Zbrojovka CZ 700": {
+			"name": "Ceska Zbrojovka CZ 700"
+		},
+		"Ceska Zbrojovka SR-449": {
+			"name": "Ceska Zbrojovka SR-449"
+		},
+		"CETME Model L": {
+			"name": "CETME Model L"
+		},
+		"CGA5": {
+			"name": "CGA5"
+		},
+		"Chadran Arms City Reaper": {
+			"name": "Chadran Arms City Reaper"
+		},
+		"Chadran Arms Jungle Reaper": {
+			"name": "Chadran Arms Jungle Reaper"
+		},
+		"Chadran Arms RR-504": {
+			"name": "Chadran Arms RR-504"
+		},
+		"Colt AR-55": {
+			"name": "Colt AR-55"
+		},
+		"Colt Commando": {
+			"name": "Colt Commando"
+		},
+		"Colt M-18": {
+			"name": "Colt M-18"
+		},
+		"Colt M16 SDM": {
+			"name": "Colt M16 SDM"
+		},
+		"Colt M16A1": {
+			"name": "Colt M16A1"
+		},
+		"Colt M16A2": {
+			"name": "Colt M16A2"
+		},
+		"Colt M16A4": {
+			"name": "Colt M16A4"
+		},
+		"Colt M4": {
+			"name": "Colt M4"
+		},
+		"Colt Mantora": {
+			"name": "Colt Mantora"
+		},
+		"Colt-Seburo Type-0 Raisen": {
+			"name": "Colt-Seburo Type-0 Raisen"
+		},
+		"Constitutional Arms Hurricane Assault": {
+			"name": "Constitutional Arms Hurricane Assault"
+		},
+		"Constitutional Arms M516D": {
+			"name": "Constitutional Arms M516D"
+		},
+		"Cyberdyn CGW-06": {
+			"name": "Cyberdyn CGW-06"
+		},
+		"Cyberdyn M22": {
+			"name": "Cyberdyn M22"
+		},
+		"Cyberdyn M23": {
+			"name": "Cyberdyn M23"
+		},
+		"Cyberdyn M3": {
+			"name": "Cyberdyn M3"
+		},
+		"Cyberdyn M30": {
+			"name": "Cyberdyn M30"
+		},
+		"Cyberdyn M7A3": {
+			"name": "Cyberdyn M7A3"
+		},
+		"Cybertronic AR3000 Assault Rifle": {
+			"name": "Cybertronic AR3000 Assault Rifle"
+		},
+		"Cybertronic CAW2000": {
+			"name": "Cybertronic CAW2000"
+		},
+		"Cybertronic SA-SG72001": {
+			"name": "Cybertronic SA-SG72001"
+		},
+		"Daewoo K1A1": {
+			"name": "Daewoo K1A1"
+		},
+		"Daewoo K2": {
+			"name": "Daewoo K2"
+		},
+		"Daewoo USAS-12": {
+			"name": "Daewoo USAS-12"
+		},
+		"Dai Lung AR-20C": {
+			"name": "Dai Lung AR-20C"
+		},
+		"Dai Lung DR-40": {
+			"name": "Dai Lung DR-40"
+		},
+		"Dai Lung Ice Thrower": {
+			"name": "Dai Lung Ice Thrower"
+		},
+		"Darra-Polytechnic M-9": {
+			"name": "Darra-Polytechnic M-9"
+		},
+		"Darra-Polytechnic WA-30": {
+			"name": "Darra-Polytechnic WA-30"
+		},
+		"DSA SA58 OSW": {
+			"name": "DSA SA58 OSW"
+		},
+		"Enfield-Ubishi Last Chance": {
+			"name": "Enfield-Ubishi Last Chance"
+		},
+		"Erma SR-100": {
+			"name": "Erma SR-100"
+		},
+		"Fabarm SDASS Tactical": {
+			"name": "Fabarm SDASS Tactical"
+		},
+		"Fabarm Tactical": {
+			"name": "Fabarm Tactical"
+		},
+		"Fabrica de Armas M-2012": {
+			"name": "Fabrica de Armas M-2012"
+		},
+		"Fabrica de Armas M102 AGL": {
+			"name": "Fabrica de Armas M102 AGL"
+		},
+		"Fabrica de Armas Malachai": {
+			"name": "Fabrica de Armas Malachai"
+		},
+		"FAMAS F1": {
+			"name": "FAMAS F1"
+		},
+		"FAMAS G2": {
+			"name": "FAMAS G2"
+		},
+		"FAMAS G4C": {
+			"name": "FAMAS G4C"
+		},
+		"FARA 83": {
+			"name": "FARA 83"
+		},
+		"Federated Arms BR-328": {
+			"name": "Federated Arms BR-328"
+		},
+		"Federated Arms Cruseras": {
+			"name": "Federated Arms Cruseras"
+		},
+		"Federated Arms Light Assault 15": {
+			"name": "Federated Arms Light Assault 15"
+		},
+		"Federated Arms SG-10": {
+			"name": "Federated Arms SG-10"
+		},
+		"Federated Arms SK19": {
+			"name": "Federated Arms SK19"
+		},
+		"Federated Arms Tech-Assault": {
+			"name": "Federated Arms Tech-Assault"
+		},
+		"FN 30-11": {
+			"name": "FN 30-11"
+		},
+		"FN ALG-22": {
+			"name": "FN ALG-22"
+		},
+		"FN F2000": {
+			"name": "FN F2000"
+		},
+		"FN FAL": {
+			"name": "FN FAL"
+		},
+		"FN Grunter": {
+			"name": "FN Grunter"
+		},
+		"FN HAR": {
+			"name": "FN HAR"
+		},
+		"FN SCAR-H": {
+			"name": "FN SCAR-H"
+		},
+		"FN SCAR-L": {
+			"name": "FN SCAR-L"
+		},
+		"FN-RAL Heavy Assault Rifle": {
+			"name": "FN-RAL Heavy Assault Rifle"
+		},
+		"FR F2": {
+			"name": "FR F2"
+		},
+		"FR-F6": {
+			"name": "FR-F6"
+		},
+		"Franchi Gendarme": {
+			"name": "Franchi Gendarme"
+		},
+		"Franchi PA3-215": {
+			"name": "Franchi PA3-215"
+		},
+		"Franchi SPAS-102": {
+			"name": "Franchi SPAS-102"
+		},
+		"Franchi SPAS-12": {
+			"name": "Franchi SPAS-12"
+		},
+		"Franchi SPAS-12S": {
+			"name": "Franchi SPAS-12S"
+		},
+		"Franchi SPAS-15": {
+			"name": "Franchi SPAS-15"
+		},
+		"Goncz-Taurus 20-Gauge Rifle": {
+			"name": "Goncz-Taurus 20-Gauge Rifle"
+		},
+		"Heckler & Koch Archer": {
+			"name": "Heckler & Koch Archer"
+		},
+		"Heckler & Koch Ardvark": {
+			"name": "Heckler & Koch Ardvark"
+		},
+		"Heckler & Koch CAWS": {
+			"name": "Heckler & Koch CAWS"
+		},
+		"Heckler & Koch CAWS-62": {
+			"name": "Heckler & Koch CAWS-62"
+		},
+		"Heckler & Koch FAR-4": {
+			"name": "Heckler & Koch FAR-4"
+		},
+		"Heckler & Koch G-46E": {
+			"name": "Heckler & Koch G-46E"
+		},
+		"Heckler & Koch G11": {
+			"name": "Heckler & Koch G11"
+		},
+		"Heckler & Koch G12A3Z": {
+			"name": "Heckler & Koch G12A3Z"
+		},
+		"Heckler & Koch G3 A3": {
+			"name": "Heckler & Koch G3 A3"
+		},
+		"Heckler & Koch G3-SG1": {
+			"name": "Heckler & Koch G3-SG1"
+		},
+		"Heckler & Koch G36": {
+			"name": "Heckler & Koch G36"
+		},
+		"Heckler & Koch G36C": {
+			"name": "Heckler & Koch G36C"
+		},
+		"Heckler & Koch G36K": {
+			"name": "Heckler & Koch G36K"
+		},
+		"Heckler & Koch G38": {
+			"name": "Heckler & Koch G38"
+		},
+		"Heckler & Koch G38SK": {
+			"name": "Heckler & Koch G38SK"
+		},
+		"Heckler & Koch G41": {
+			"name": "Heckler & Koch G41"
+		},
+		"Heckler & Koch Goblin": {
+			"name": "Heckler & Koch Goblin"
+		},
+		"Heckler & Koch GR-56": {
+			"name": "Heckler & Koch GR-56"
+		},
+		"Heckler & Koch HK 33": {
+			"name": "Heckler & Koch HK 33"
+		},
+		"Heckler & Koch HK 33K": {
+			"name": "Heckler & Koch HK 33K"
+		},
+		"Heckler & Koch HK 416": {
+			"name": "Heckler & Koch HK 416"
+		},
+		"Heckler & Koch HK 512": {
+			"name": "Heckler & Koch HK 512"
+		},
+		"Heckler & Koch HK 53": {
+			"name": "Heckler & Koch HK 53"
+		},
+		"Heckler & Koch HK770": {
+			"name": "Heckler & Koch HK770"
+		},
+		"Heckler & Koch HK81": {
+			"name": "Heckler & Koch HK81"
+		},
+		"Heckler & Koch MP11-SG1": {
+			"name": "Heckler & Koch MP11-SG1"
+		},
+		"Heckler & Koch MPXS1": {
+			"name": "Heckler & Koch MPXS1"
+		},
+		"Heckler & Koch MSG-90": {
+			"name": "Heckler & Koch MSG-90"
+		},
+		"Heckler & Koch PSG1": {
+			"name": "Heckler & Koch PSG1"
+		},
+		"Heckler & Koch PSG2": {
+			"name": "Heckler & Koch PSG2"
+		},
+		"Heckler & Koch SL1": {
+			"name": "Heckler & Koch SL1"
+		},
+		"Heckler & Koch SL8": {
+			"name": "Heckler & Koch SL8"
+		},
+		"Heckler & Koch SL9-SD": {
+			"name": "Heckler & Koch SL9-SD"
+		},
+		"Heckler & Koch VGR-13": {
+			"name": "Heckler & Koch VGR-13"
+		},
+		"Heckler & Koch XM8": {
+			"name": "Heckler & Koch XM8"
+		},
+		"Howa Type 64": {
+			"name": "Howa Type 64"
+		},
+		"Howa Type 89": {
+			"name": "Howa Type 89"
+		},
+		"Howa Type 89 Para": {
+			"name": "Howa Type 89 Para"
+		},
+		"Imbel MD-2": {
+			"name": "Imbel MD-2"
+		},
+		"Imbel Model LC": {
+			"name": "Imbel Model LC"
+		},
+		"IMI CTAR-21": {
+			"name": "IMI CTAR-21"
+		},
+		"IMI Galil AR": {
+			"name": "IMI Galil AR"
+		},
+		"IMI Galil MAR": {
+			"name": "IMI Galil MAR"
+		},
+		"IMI Galil Marksman": {
+			"name": "IMI Galil Marksman"
+		},
+		"IMI Galil Patriot": {
+			"name": "IMI Galil Patriot"
+		},
+		"IMI Galil SAR": {
+			"name": "IMI Galil SAR"
+		},
+		"IMI Galil Sniper": {
+			"name": "IMI Galil Sniper"
+		},
+		"IMI STAR-21": {
+			"name": "IMI STAR-21"
+		},
+		"IMI TAR-21": {
+			"name": "IMI TAR-21"
+		},
+		"INSAS": {
+			"name": "INSAS"
+		},
+		"Ithaca M37": {
+			"name": "Ithaca M37"
+		},
+		"Ithaca Stakeout": {
+			"name": "Ithaca Stakeout"
+		},
+		"Izhmash IZH-81": {
+			"name": "Izhmash IZH-81"
+		},
+		"Izhmash Saiga 12S": {
+			"name": "Izhmash Saiga 12S"
+		},
+		"Izhmash Saiga 20S": {
+			"name": "Izhmash Saiga 20S"
+		},
+		"Kalashnikov A-80": {
+			"name": "Kalashnikov A-80"
+		},
+		"Kalashnikov AK-18": {
+			"name": "Kalashnikov AK-18"
+		},
+		"Kalashnikov AK107": {
+			"name": "Kalashnikov AK107"
+		},
+		"Kalashnikov AK127": {
+			"name": "Kalashnikov AK127"
+		},
+		"Kalashnikov AK47": {
+			"name": "Kalashnikov AK47"
+		},
+		"Kalashnikov AK74": {
+			"name": "Kalashnikov AK74"
+		},
+		"Kalashnikov AK77 Supergun": {
+			"name": "Kalashnikov AK77 Supergun"
+		},
+		"Kalashnikov AKR20 Medium Assault": {
+			"name": "Kalashnikov AKR20 Medium Assault"
+		},
+		"Kalashnikov AKS-74U": {
+			"name": "Kalashnikov AKS-74U"
+		},
+		"Kalashnikov AKSU91": {
+			"name": "Kalashnikov AKSU91"
+		},
+		"Kalashnikov AKZ-103": {
+			"name": "Kalashnikov AKZ-103"
+		},
+		"Kamaha Kalch": {
+			"name": "Kamaha Kalch"
+		},
+		"Kel-Tec RFB": {
+			"name": "Kel-Tec RFB"
+		},
+		"Kel-Tec SU-16C": {
+			"name": "Kel-Tec SU-16C"
+		},
+		"Kendachi Aurora": {
+			"name": "Kendachi Aurora"
+		},
+		"Knight's Armament SR-25": {
+			"name": "Knight's Armament SR-25"
+		},
+		"KS-23": {
+			"name": "KS-23"
+		},
+		"L1A1 SLR": {
+			"name": "L1A1 SLR"
+		},
+		"LAPA FA 03": {
+			"name": "LAPA FA 03"
+		},
+		"Lucznik M96 Beryl": {
+			"name": "Lucznik M96 Beryl"
+		},
+		"Luigi Franchi Gavil M386": {
+			"name": "Luigi Franchi Gavil M386"
+		},
+		"Luigi Franchi P.16": {
+			"name": "Luigi Franchi P.16"
+		},
+		"M1 Carbine": {
+			"name": "M1 Carbine"
+		},
+		"M1 Garand": {
+			"name": "M1 Garand"
+		},
+		"M14": {
+			"name": "M14"
+		},
+		"M14V": {
+			"name": "M14V"
+		},
+		"M21": {
+			"name": "M21"
+		},
+		"M24": {
+			"name": "M24"
+		},
+		"M40": {
+			"name": "M40"
+		},
+		"Magpul Masada": {
+			"name": "Magpul Masada"
+		},
+		"Magpul PDR-C": {
+			"name": "Magpul PDR-C"
+		},
+		"Malorian Arms EAW-09": {
+			"name": "Malorian Arms EAW-09"
+		},
+		"MAS 49": {
+			"name": "MAS 49"
+		},
+		"MAS 49-56": {
+			"name": "MAS 49-56"
+		},
+		"MAS AAR": {
+			"name": "MAS AAR"
+		},
+		"MAS Urban Assault": {
+			"name": "MAS Urban Assault"
+		},
+		"Mauser 86SR": {
+			"name": "Mauser 86SR"
+		},
+		"Mauser SP66": {
+			"name": "Mauser SP66"
+		},
+		"Metacorp AUR-333": {
+			"name": "Metacorp AUR-333"
+		},
+		"Metacorp BR-55 A2": {
+			"name": "Metacorp BR-55 A2"
+		},
+		"Metacorp LS-35 A1": {
+			"name": "Metacorp LS-35 A1"
+		},
+		"Metacorp MAS-12 Exploder": {
+			"name": "Metacorp MAS-12 Exploder"
+		},
+		"Metacorp SE-23": {
+			"name": "Metacorp SE-23"
+		},
+		"Metacorp SSR": {
+			"name": "Metacorp SSR"
+		},
+		"Metacorp Warhammer Assault Shotgun": {
+			"name": "Metacorp Warhammer Assault Shotgun"
+		},
+		"Mexican Metals ACR-461": {
+			"name": "Mexican Metals ACR-461"
+		},
+		"Milcam Sniper": {
+			"name": "Milcam Sniper"
+		},
+		"Militech AG-17": {
+			"name": "Militech AG-17"
+		},
+		"Militech AR-68": {
+			"name": "Militech AR-68"
+		},
+		"Militech Arbus": {
+			"name": "Militech Arbus"
+		},
+		"Militech Bulldog Compact Assault Shotgun": {
+			"name": "Militech Bulldog Compact Assault Shotgun"
+		},
+		"Militech Crusher": {
+			"name": "Militech Crusher"
+		},
+		"Militech CSH-45": {
+			"name": "Militech CSH-45"
+		},
+		"Militech Dragon": {
+			"name": "Militech Dragon"
+		},
+		"Militech ERW-14": {
+			"name": "Militech ERW-14"
+		},
+		"Militech GNG-H01": {
+			"name": "Militech GNG-H01"
+		},
+		"Militech LV-426": {
+			"name": "Militech LV-426"
+		},
+		"Militech M-52": {
+			"name": "Militech M-52"
+		},
+		"Militech M12 Shotgun": {
+			"name": "Militech M12 Shotgun"
+		},
+		"Militech M31-A1": {
+			"name": "Militech M31-A1"
+		},
+		"Militech M6 Combat": {
+			"name": "Militech M6 Combat"
+		},
+		"Militech MAR-26": {
+			"name": "Militech MAR-26"
+		},
+		"Militech MK IV": {
+			"name": "Militech MK IV"
+		},
+		"Militech Ninja": {
+			"name": "Militech Ninja"
+		},
+		"Militech PASR-42": {
+			"name": "Militech PASR-42"
+		},
+		"Militech Ronin Light Assault": {
+			"name": "Militech Ronin Light Assault"
+		},
+		"Militech Sasquatch": {
+			"name": "Militech Sasquatch"
+		},
+		"Militech SPW-32": {
+			"name": "Militech SPW-32"
+		},
+		"Mosin-Nagant 1891-30": {
+			"name": "Mosin-Nagant 1891-30"
+		},
+		"Mossberg ATA-10": {
+			"name": "Mossberg ATA-10"
+		},
+		"Mossberg ATA-5": {
+			"name": "Mossberg ATA-5"
+		},
+		"Mossberg CMDT Combat Gun": {
+			"name": "Mossberg CMDT Combat Gun"
+		},
+		"Mossberg Model 500": {
+			"name": "Mossberg Model 500"
+		},
+		"Mossberg Model 500 Bullpup": {
+			"name": "Mossberg Model 500 Bullpup"
+		},
+		"Mossberg Model 590": {
+			"name": "Mossberg Model 590"
+		},
+		"Mustang Arms Close Control": {
+			"name": "Mustang Arms Close Control"
+		},
+		"Mustang Arms Raider": {
+			"name": "Mustang Arms Raider"
+		},
+		"Nomad .357 Magnum Automatic Carbine": {
+			"name": "Nomad .357 Magnum Automatic Carbine"
+		},
+		"Nomad .44 Magnum Lever-Action Rifle": {
+			"name": "Nomad .44 Magnum Lever-Action Rifle"
+		},
+		"Nomad 7.62 mm Bolt Action Rifle": {
+			"name": "Nomad 7.62 mm Bolt Action Rifle"
+		},
+		"Norinco M98": {
+			"name": "Norinco M98"
+		},
+		"Norinco QBU Type 88": {
+			"name": "Norinco QBU Type 88"
+		},
+		"Norinco QBZ Type 95 Rifle": {
+			"name": "Norinco QBZ Type 95 Rifle"
+		},
+		"Norinco QBZ Type 95B Carbine": {
+			"name": "Norinco QBZ Type 95B Carbine"
+		},
+		"Norinco QBZ Type 97 Rifle": {
+			"name": "Norinco QBZ Type 97 Rifle"
+		},
+		"Norinco Type 121": {
+			"name": "Norinco Type 121"
+		},
+		"Nova Arms RMG-23": {
+			"name": "Nova Arms RMG-23"
+		},
+		"OICW": {
+			"name": "OICW"
+		},
+		"Okusa Light Assault": {
+			"name": "Okusa Light Assault"
+		},
+		"OTs-14 Groza": {
+			"name": "OTs-14 Groza"
+		},
+		"OTs-14 Groza 7.62": {
+			"name": "OTs-14 Groza 7.62"
+		},
+		"Pancor Jackhammer Mark 3-A2": {
+			"name": "Pancor Jackhammer Mark 3-A2"
+		},
+		"Parker-Hale M82": {
+			"name": "Parker-Hale M82"
+		},
+		"PGM Ultima Ratio Intervention": {
+			"name": "PGM Ultima Ratio Intervention"
+		},
+		"Ranger Arms PST-99": {
+			"name": "Ranger Arms PST-99"
+		},
+		"Ranger Arms SM3": {
+			"name": "Ranger Arms SM3"
+		},
+		"Remington 11-87": {
+			"name": "Remington 11-87"
+		},
+		"Remington 6-Pump": {
+			"name": "Remington 6-Pump"
+		},
+		"Remington 870": {
+			"name": "Remington 870"
+		},
+		"Remington 950": {
+			"name": "Remington 950"
+		},
+		"Remington Dillon": {
+			"name": "Remington Dillon"
+		},
+		"Remington HG-14": {
+			"name": "Remington HG-14"
+		},
+		"Remington M713": {
+			"name": "Remington M713"
+		},
+		"Remington Mk XIV Mandible": {
+			"name": "Remington Mk XIV Mandible"
+		},
+		"Remington Sodom": {
+			"name": "Remington Sodom"
+		},
+		"Remington Survivor": {
+			"name": "Remington Survivor"
+		},
+		"RMB-93": {
+			"name": "RMB-93"
+		},
+		"RomArm PL": {
+			"name": "RomArm PL"
+		},
+		"Ronin Shotgun Revolver": {
+			"name": "Ronin Shotgun Revolver"
+		},
+		"Rossi Squire": {
+			"name": "Rossi Squire"
+		},
+		"Royal Enfield L42A1": {
+			"name": "Royal Enfield L42A1"
+		},
+		"Royal Enfield L85A1 IW": {
+			"name": "Royal Enfield L85A1 IW"
+		},
+		"Royal Enfield L87": {
+			"name": "Royal Enfield L87"
+		},
+		"Royal Enfield L92": {
+			"name": "Royal Enfield L92"
+		},
+		"Royal Enfield Ordnance 7.5 mm LPA1": {
+			"name": "Royal Enfield Ordnance 7.5 mm LPA1"
+		},
+		"Royal Enfield SA-90": {
+			"name": "Royal Enfield SA-90"
+		},
+		"Ruger 100 Sport Rifle": {
+			"name": "Ruger 100 Sport Rifle"
+		},
+		"Ruger AC556F": {
+			"name": "Ruger AC556F"
+		},
+		"Ruger Stecker": {
+			"name": "Ruger Stecker"
+		},
+		"SA vz.58": {
+			"name": "SA vz.58"
+		},
+		"Sako TRG-22": {
+			"name": "Sako TRG-22"
+		},
+		"Sawn-off Shotgun": {
+			"name": "Sawn-off Shotgun"
+		},
+		"Scattergun Patrol": {
+			"name": "Scattergun Patrol"
+		},
+		"SCI TTA": {
+			"name": "SCI TTA"
+		},
+		"SCI Volga M15": {
+			"name": "SCI Volga M15"
+		},
+		"Seburo ACR-556": {
+			"name": "Seburo ACR-556"
+		},
+		"Seburo C-M26": {
+			"name": "Seburo C-M26"
+		},
+		"Seburo CZN-M22": {
+			"name": "Seburo CZN-M22"
+		},
+		"Seburo CZN-M27": {
+			"name": "Seburo CZN-M27"
+		},
+		"Seburo HSR-1": {
+			"name": "Seburo HSR-1"
+		},
+		"Seburo J11": {
+			"name": "Seburo J11"
+		},
+		"Seburo M487": {
+			"name": "Seburo M487"
+		},
+		"Seburo MN-23": {
+			"name": "Seburo MN-23"
+		},
+		"Seburo MN-23C": {
+			"name": "Seburo MN-23C"
+		},
+		"Seburo MN-40": {
+			"name": "Seburo MN-40"
+		},
+		"Seburo MN-41": {
+			"name": "Seburo MN-41"
+		},
+		"Seburo PAS-14": {
+			"name": "Seburo PAS-14"
+		},
+		"Seburo PAS-16": {
+			"name": "Seburo PAS-16"
+		},
+		"Seburo PAS-18": {
+			"name": "Seburo PAS-18"
+		},
+		"Seburo PDW-16": {
+			"name": "Seburo PDW-16"
+		},
+		"Seburo PDW-17": {
+			"name": "Seburo PDW-17"
+		},
+		"Seburo PDW-18": {
+			"name": "Seburo PDW-18"
+		},
+		"Seburo PDW-19": {
+			"name": "Seburo PDW-19"
+		},
+		"Seburo PMN-68": {
+			"name": "Seburo PMN-68"
+		},
+		"Seburo PSR-21": {
+			"name": "Seburo PSR-21"
+		},
+		"Sig Sauer 550 Sniper": {
+			"name": "Sig Sauer 550 Sniper"
+		},
+		"Sig Sauer SG-510-4": {
+			"name": "Sig Sauer SG-510-4"
+		},
+		"Sig Sauer SG-542": {
+			"name": "Sig Sauer SG-542"
+		},
+		"Sig Sauer SG-551": {
+			"name": "Sig Sauer SG-551"
+		},
+		"Sig Sauer SG-552": {
+			"name": "Sig Sauer SG-552"
+		},
+		"Sig Sauer SSG 3000": {
+			"name": "Sig Sauer SSG 3000"
+		},
+		"Simonov SKS": {
+			"name": "Simonov SKS"
+		},
+		"Smith & Wesson SAS-911": {
+			"name": "Smith & Wesson SAS-911"
+		},
+		"SR-3 Vikhr": {
+			"name": "SR-3 Vikhr"
+		},
+		"ST Kinetics SAR-21": {
+			"name": "ST Kinetics SAR-21"
+		},
+		"ST Kinetics SAR-80": {
+			"name": "ST Kinetics SAR-80"
+		},
+		"Stein & Wasserman Z-212": {
+			"name": "Stein & Wasserman Z-212"
+		},
+		"Steinkamp SW1": {
+			"name": "Steinkamp SW1"
+		},
+		"Sternmeyer ASW-68": {
+			"name": "Sternmeyer ASW-68"
+		},
+		"Sternmeyer M-95 A (CG-13": {
+			"name": "Sternmeyer M-95 A (CG-13"
+		},
+		"Sternmeyer M97S": {
+			"name": "Sternmeyer M97S"
+		},
+		"Sternmeyer Mison": {
+			"name": "Sternmeyer Mison"
+		},
+		"Sternmeyer SH-8": {
+			"name": "Sternmeyer SH-8"
+		},
+		"Sternmeyer Stakeout 10": {
+			"name": "Sternmeyer Stakeout 10"
+		},
+		"Steyr Aug": {
+			"name": "Steyr Aug"
+		},
+		"Steyr Aug ST-97": {
+			"name": "Steyr Aug ST-97"
+		},
+		"Steyr KR-27": {
+			"name": "Steyr KR-27"
+		},
+		"Steyr Scout": {
+			"name": "Steyr Scout"
+		},
+		"Steyr SSG 69": {
+			"name": "Steyr SSG 69"
+		},
+		"Steyr Super Aug": {
+			"name": "Steyr Super Aug"
+		},
+		"Stokovitch & Bolotnikov Pro-Sniper": {
+			"name": "Stokovitch & Bolotnikov Pro-Sniper"
+		},
+		"Stolvoboy 12 MAG CAW": {
+			"name": "Stolvoboy 12 MAG CAW"
+		},
+		"Stolvoboy DROZ-6": {
+			"name": "Stolvoboy DROZ-6"
+		},
+		"Stolvoboy Oktober": {
+			"name": "Stolvoboy Oktober"
+		},
+		"Stolvoboy SR5": {
+			"name": "Stolvoboy SR5"
+		},
+		"Stolvoboy ST-5": {
+			"name": "Stolvoboy ST-5"
+		},
+		"Stoner 63A": {
+			"name": "Stoner 63A"
+		},
+		"StreetTech M-12 CAW": {
+			"name": "StreetTech M-12 CAW"
+		},
+		"Sungan Hob-12": {
+			"name": "Sungan Hob-12"
+		},
+		"SV-98": {
+			"name": "SV-98"
+		},
+		"SV-99": {
+			"name": "SV-99"
+		},
+		"SVD": {
+			"name": "SVD"
+		},
+		"SVD-2": {
+			"name": "SVD-2"
+		},
+		"SVU-A": {
+			"name": "SVU-A"
+		},
+		"T86 Carbine": {
+			"name": "T86 Carbine"
+		},
+		"Tambu 501 AirBrush": {
+			"name": "Tambu 501 AirBrush"
+		},
+		"TDI Kriss Super XII": {
+			"name": "TDI Kriss Super XII"
+		},
+		"Techno Arms MAG-7": {
+			"name": "Techno Arms MAG-7"
+		},
+		"Texas Arms R-Shot .477": {
+			"name": "Texas Arms R-Shot .477"
+		},
+		"Texhofforhov AVA Carbine": {
+			"name": "Texhofforhov AVA Carbine"
+		},
+		"Tokarev SVT-40": {
+			"name": "Tokarev SVT-40"
+		},
+		"Towa Toshoni": {
+			"name": "Towa Toshoni"
+		},
+		"Towa Type 99": {
+			"name": "Towa Type 99"
+		},
+		"Traveller Assault Rifle": {
+			"name": "Traveller Assault Rifle"
+		},
+		"Truvelo Neostead": {
+			"name": "Truvelo Neostead"
+		},
+		"Tsunami Arms AR-41": {
+			"name": "Tsunami Arms AR-41"
+		},
+		"Tsunami Arms BR-404": {
+			"name": "Tsunami Arms BR-404"
+		},
+		"Tsunami Arms CR-25": {
+			"name": "Tsunami Arms CR-25"
+		},
+		"Tsunami Arms ISS": {
+			"name": "Tsunami Arms ISS"
+		},
+		"Tsunami Arms King-Snip": {
+			"name": "Tsunami Arms King-Snip"
+		},
+		"Tsunami Arms Ragnarok CAWS": {
+			"name": "Tsunami Arms Ragnarok CAWS"
+		},
+		"Tsunami Arms RS-73": {
+			"name": "Tsunami Arms RS-73"
+		},
+		"Valmet M82": {
+			"name": "Valmet M82"
+		},
+		"Valmet Rk. 62": {
+			"name": "Valmet Rk. 62"
+		},
+		"Valmet Rk. 95": {
+			"name": "Valmet Rk. 95"
+		},
+		"Valmet Special": {
+			"name": "Valmet Special"
+		},
+		"Van Pattan": {
+			"name": "Van Pattan"
+		},
+		"Vektor CR-21": {
+			"name": "Vektor CR-21"
+		},
+		"Viking Arms SOS": {
+			"name": "Viking Arms SOS"
+		},
+		"VS-94 PS": {
+			"name": "VS-94 PS"
+		},
+		"VSK-94": {
+			"name": "VSK-94"
+		},
+		"VSS Vintorez": {
+			"name": "VSS Vintorez"
+		},
+		"Walther SPR-96": {
+			"name": "Walther SPR-96"
+		},
+		"Walther WA-2021": {
+			"name": "Walther WA-2021"
+		},
+		"Walther WA-2022": {
+			"name": "Walther WA-2022"
+		},
+		"Weatherby Mark V": {
+			"name": "Weatherby Mark V"
+		},
+		"Weatherby Mark V Compact": {
+			"name": "Weatherby Mark V Compact"
+		},
+		"Winchester M-22": {
+			"name": "Winchester M-22"
+		},
+		"Winchester M70": {
+			"name": "Winchester M70"
+		},
+		"Winchester MN12": {
+			"name": "Winchester MN12"
+		},
+		"Winchester Nevada 10": {
+			"name": "Winchester Nevada 10"
+		},
+		"Zastava M76": {
+			"name": "Zastava M76"
+		},
+		"ZM LR 300": {
+			"name": "ZM LR 300"
+		}
+	}
+}

@@ -1,0 +1,1439 @@
+{
+	"label": "Кибер-оснащение",
+	"entries": {
+		"2 shot Capacitor Laser": {
+			"name": "2 shot Capacitor Laser"
+		},
+		"360 Rotating Joints": {
+			"name": "360 Rotating Joints"
+		},
+		"Adrenal Booster": {
+			"name": "Adrenal Booster"
+		},
+		"Advanced Cortical Implant": {
+			"name": "Advanced Cortical Implant"
+		},
+		"Advanced Muscle and Bone Lace I": {
+			"name": "Advanced Muscle and Bone Lace I"
+		},
+		"Advanced Muscle and Bone Lace II": {
+			"name": "Advanced Muscle and Bone Lace II"
+		},
+		"Advanced Muscle and Bone lace III": {
+			"name": "Advanced Muscle and Bone lace III"
+		},
+		"Aip Hypo": {
+			"name": "Aip Hypo"
+		},
+		"Alpha Tuff Bone Skeletal Enh": {
+			"name": "Alpha Tuff Bone Skeletal Enh"
+		},
+		"Alterable Prints": {
+			"name": "Alterable Prints"
+		},
+		"Altered DNA": {
+			"name": "Altered DNA"
+		},
+		"Altered Fingerprints": {
+			"name": "Altered Fingerprints"
+		},
+		"Altered Retinas": {
+			"name": "Altered Retinas"
+		},
+		"Altering Voice Patterns": {
+			"name": "Altering Voice Patterns"
+		},
+		"Amplified Hearing": {
+			"name": "Amplified Hearing"
+		},
+		"Anchoring Cyberfeet": {
+			"name": "Anchoring Cyberfeet"
+		},
+		"Anti-Dazzle": {
+			"name": "Anti-Dazzle"
+		},
+		"Anti-Plague Nanotech": {
+			"name": "Anti-Plague Nanotech"
+		},
+		"Anti-Trauma": {
+			"name": "Anti-Trauma"
+		},
+		"AntiDazzle Nict Membrane": {
+			"name": "AntiDazzle Nict Membrane"
+		},
+		"Armor": {
+			"name": "Armor"
+		},
+		"Armor Covering": {
+			"name": "Armor Covering"
+		},
+		"Artificial Shoulder Mount": {
+			"name": "Artificial Shoulder Mount"
+		},
+		"Audio Vox": {
+			"name": "Audio Vox"
+		},
+		"Audio/Video Recorder": {
+			"name": "Audio/Video Recorder"
+		},
+		"Autoinjector": {
+			"name": "Autoinjector"
+		},
+		"Ballpoint Finger": {
+			"name": "Ballpoint Finger"
+		},
+		"Behind The Ear Cory Implant": {
+			"name": "Behind The Ear Cory Implant"
+		},
+		"Beta Tuff Bone Skeletal Enh": {
+			"name": "Beta Tuff Bone Skeletal Enh"
+		},
+		"Big Knucks": {
+			"name": "Big Knucks"
+		},
+		"BigRipp (body weapon)": {
+			"name": "BigRipp (body weapon)"
+		},
+		"BigRipp (cyberlimb weapon)": {
+			"name": "BigRipp (cyberlimb weapon)"
+		},
+		"Biomechanical Arm": {
+			"name": "Biomechanical Arm"
+		},
+		"Biomechanical Cyberarm": {
+			"name": "Biomechanical Cyberarm"
+		},
+		"Biomechanical Cyberaudio": {
+			"name": "Biomechanical Cyberaudio"
+		},
+		"Biomechanical Cyberleg": {
+			"name": "Biomechanical Cyberleg"
+		},
+		"Biomechanical Cyberoptic": {
+			"name": "Biomechanical Cyberoptic"
+		},
+		"Biomonitor": {
+			"name": "Biomonitor"
+		},
+		"Blitzkrieg Arc-Thrower": {
+			"name": "Blitzkrieg Arc-Thrower"
+		},
+		"Bodyweight Pacemaker Coprocessor": {
+			"name": "Bodyweight Pacemaker Coprocessor"
+		},
+		"Bodyweight Variable-Chambered Heart": {
+			"name": "Bodyweight Variable-Chambered Heart"
+		},
+		"Bodyweight Vein Clips": {
+			"name": "Bodyweight Vein Clips"
+		},
+		"Bonespike": {
+			"name": "Bonespike"
+		},
+		"Boostmaster": {
+			"name": "Boostmaster"
+		},
+		"Booze Master": {
+			"name": "Booze Master"
+		},
+		"Braindance Adaptor": {
+			"name": "Braindance Adaptor"
+		},
+		"Braindance Plugs": {
+			"name": "Braindance Plugs"
+		},
+		"Bug Detector": {
+			"name": "Bug Detector"
+		},
+		"Bug Eye": {
+			"name": "Bug Eye"
+		},
+		"BuzzHand": {
+			"name": "BuzzHand"
+		},
+		"Buzzsaw": {
+			"name": "Buzzsaw"
+		},
+		"Cam-O-Skin": {
+			"name": "Cam-O-Skin"
+		},
+		"CapsuleCo CyberPillow": {
+			"name": "CapsuleCo CyberPillow"
+		},
+		"Catspaw Stealth Foot": {
+			"name": "Catspaw Stealth Foot"
+		},
+		"Cellular Cybermodem": {
+			"name": "Cellular Cybermodem"
+		},
+		"ChainRipp": {
+			"name": "ChainRipp"
+		},
+		"Chem Skins": {
+			"name": "Chem Skins"
+		},
+		"Chem Weave": {
+			"name": "Chem Weave"
+		},
+		"Chemical Analyzer": {
+			"name": "Chemical Analyzer"
+		},
+		"Chipware Socket": {
+			"name": "Chipware Socket"
+		},
+		"Color Shift": {
+			"name": "Color Shift"
+		},
+		"Contraceptive Implant": {
+			"name": "Contraceptive Implant"
+		},
+		"Corvette Cyberlegs (advan)": {
+			"name": "Corvette Cyberlegs (advan)"
+		},
+		"Corvette Cyberlegs (advan) as upgrade": {
+			"name": "Corvette Cyberlegs (advan) as upgrade"
+		},
+		"Corvette Cyberlegs (basic)": {
+			"name": "Corvette Cyberlegs (basic)"
+		},
+		"Corymbic Implant": {
+			"name": "Corymbic Implant"
+		},
+		"Cowl": {
+			"name": "Cowl"
+		},
+		"Custom Cyberhand": {
+			"name": "Custom Cyberhand"
+		},
+		"Cutting Torch": {
+			"name": "Cutting Torch"
+		},
+		"Cyber Bar Leg": {
+			"name": "Cyber Bar Leg"
+		},
+		"Cyber-Detection Computer": {
+			"name": "Cyber-Detection Computer"
+		},
+		"Cyber-Lung": {
+			"name": "Cyber-Lung"
+		},
+		"Cyberaudio": {
+			"name": "Cyberaudio"
+		},
+		"CyberFacial Remounts: Evil Eye": {
+			"name": "CyberFacial Remounts: Evil Eye"
+		},
+		"CyberFacial Remounts: Jigsaw": {
+			"name": "CyberFacial Remounts: Jigsaw"
+		},
+		"CyberFacial Remounts: Twoface": {
+			"name": "CyberFacial Remounts: Twoface"
+		},
+		"Cyberhand Coverings": {
+			"name": "Cyberhand Coverings"
+		},
+		"Cyberlimb Flashlight": {
+			"name": "Cyberlimb Flashlight"
+		},
+		"Cybermodem": {
+			"name": "Cybermodem"
+		},
+		"Cybermodem Link": {
+			"name": "Cybermodem Link"
+		},
+		"Cyberoptic": {
+			"name": "Cyberoptic"
+		},
+		"Cyberoptic Compass": {
+			"name": "Cyberoptic Compass"
+		},
+		"Cybersnake": {
+			"name": "Cybersnake"
+		},
+		"Cybervocal 'Box Alter'": {
+			"name": "Cybervocal 'Box Alter'"
+		},
+		"Cyphire Retractable Spitting Cobra": {
+			"name": "Cyphire Retractable Spitting Cobra"
+		},
+		"Cyphire Spitting Cobra": {
+			"name": "Cyphire Spitting Cobra"
+		},
+		"D-Tek Targeting Network": {
+			"name": "D-Tek Targeting Network"
+		},
+		"Dakai Scramble": {
+			"name": "Dakai Scramble"
+		},
+		"Dakai/Cyphire NewThroat": {
+			"name": "Dakai/Cyphire NewThroat"
+		},
+		"Dartgun": {
+			"name": "Dartgun"
+		},
+		"DataTerm Link": {
+			"name": "DataTerm Link"
+		},
+		"Decentralized Heart": {
+			"name": "Decentralized Heart"
+		},
+		"Dermatech Logo-Line Tattoo": {
+			"name": "Dermatech Logo-Line Tattoo"
+		},
+		"Dermatech Mood Skin": {
+			"name": "Dermatech Mood Skin"
+		},
+		"Derringer": {
+			"name": "Derringer"
+		},
+		"Diet-Mite": {
+			"name": "Diet-Mite"
+		},
+		"Digital Camera": {
+			"name": "Digital Camera"
+		},
+		"Digital Recorder": {
+			"name": "Digital Recorder"
+		},
+		"Digital Recording Link": {
+			"name": "Digital Recording Link"
+		},
+		"Doc Richter Seismic Sensor": {
+			"name": "Doc Richter Seismic Sensor"
+		},
+		"Dodgeball": {
+			"name": "Dodgeball"
+		},
+		"Dornier-Bauer Circulatory Sphincters": {
+			"name": "Dornier-Bauer Circulatory Sphincters"
+		},
+		"Dornier-Bauer Neural Bridge": {
+			"name": "Dornier-Bauer Neural Bridge"
+		},
+		"Double-Jointed": {
+			"name": "Double-Jointed"
+		},
+		"Dummy Facemasks": {
+			"name": "Dummy Facemasks"
+		},
+		"Dynala Endo-Frame (Basic)": {
+			"name": "Dynala Endo-Frame (Basic)"
+		},
+		"Dynalar Endo-Frame(Orbital)": {
+			"name": "Dynalar Endo-Frame(Orbital)"
+		},
+		"Dynalar Web Hand": {
+			"name": "Dynalar Web Hand"
+		},
+		"E-Monitor": {
+			"name": "E-Monitor"
+		},
+		"Echolocation System Coprocessor": {
+			"name": "Echolocation System Coprocessor"
+		},
+		"Electromagnetic Shielding": {
+			"name": "Electromagnetic Shielding"
+		},
+		"Enable Cyberarm": {
+			"name": "Enable Cyberarm"
+		},
+		"Enable Cyberleg": {
+			"name": "Enable Cyberleg"
+		},
+		"Endurance": {
+			"name": "Endurance"
+		},
+		"Enhanced Antibodies": {
+			"name": "Enhanced Antibodies"
+		},
+		"Enhanced Hearing Range": {
+			"name": "Enhanced Hearing Range"
+		},
+		"Enhanced Hearing: Amplified Hearing": {
+			"name": "Enhanced Hearing: Amplified Hearing"
+		},
+		"Enhanced Hearing: Enhanced Range": {
+			"name": "Enhanced Hearing: Enhanced Range"
+		},
+		"Enhanced Lungs Series 2": {
+			"name": "Enhanced Lungs Series 2"
+		},
+		"Enhanced Lungs Series 3": {
+			"name": "Enhanced Lungs Series 3"
+		},
+		"Enhanced Sense of Smell": {
+			"name": "Enhanced Sense of Smell"
+		},
+		"Enhanced Sight: Color Shift": {
+			"name": "Enhanced Sight: Color Shift"
+		},
+		"Enhanced Sight: Image Enhancement": {
+			"name": "Enhanced Sight: Image Enhancement"
+		},
+		"Enhanced Sight: Infrared": {
+			"name": "Enhanced Sight: Infrared"
+		},
+		"Enhanced Sight: Low Light": {
+			"name": "Enhanced Sight: Low Light"
+		},
+		"Enhanced Sight: Telescopic": {
+			"name": "Enhanced Sight: Telescopic"
+		},
+		"Enhanced Sight: Ultraviolet": {
+			"name": "Enhanced Sight: Ultraviolet"
+		},
+		"Erased Fingerprints": {
+			"name": "Erased Fingerprints"
+		},
+		"Etched Design": {
+			"name": "Etched Design"
+		},
+		"Extended Canines": {
+			"name": "Extended Canines"
+		},
+		"Extended Sharkgrin Special": {
+			"name": "Extended Sharkgrin Special"
+		},
+		"Extending Leg Units": {
+			"name": "Extending Leg Units"
+		},
+		"Extension Hand": {
+			"name": "Extension Hand"
+		},
+		"Extra Twist Joint Addition": {
+			"name": "Extra Twist Joint Addition"
+		},
+		"Eye Color Gland Control": {
+			"name": "Eye Color Gland Control"
+		},
+		"Faceplate": {
+			"name": "Faceplate"
+		},
+		"Feature Alteration Implant": {
+			"name": "Feature Alteration Implant"
+		},
+		"Feel Good Endorphin Trigger": {
+			"name": "Feel Good Endorphin Trigger"
+		},
+		"Filter Valves": {
+			"name": "Filter Valves"
+		},
+		"Finger Bomb": {
+			"name": "Finger Bomb"
+		},
+		"Finger Mace Sprayer": {
+			"name": "Finger Mace Sprayer"
+		},
+		"Flame thrower": {
+			"name": "Flame thrower"
+		},
+		"Flare": {
+			"name": "Flare"
+		},
+		"Flashbulb": {
+			"name": "Flashbulb"
+		},
+		"Flasher": {
+			"name": "Flasher"
+		},
+		"Flashlight Implant": {
+			"name": "Flashlight Implant"
+		},
+		"Flashlight Strobe": {
+			"name": "Flashlight Strobe"
+		},
+		"Flesh Mount": {
+			"name": "Flesh Mount"
+		},
+		"Fleshweave": {
+			"name": "Fleshweave"
+		},
+		"Forked Tongue": {
+			"name": "Forked Tongue"
+		},
+		"Frequency Changer": {
+			"name": "Frequency Changer"
+		},
+		"Fresco's Personal Nano-Groomers": {
+			"name": "Fresco's Personal Nano-Groomers"
+		},
+		"Front Optic Mount": {
+			"name": "Front Optic Mount"
+		},
+		"Full-Spectrum Immuno-Booster": {
+			"name": "Full-Spectrum Immuno-Booster"
+		},
+		"Gang Jazzler": {
+			"name": "Gang Jazzler"
+		},
+		"Gas Jet": {
+			"name": "Gas Jet"
+		},
+		"Gene-Tek's See-It Transparent Skin": {
+			"name": "Gene-Tek's See-It Transparent Skin"
+		},
+		"General Products Exoskeleton (Series-A)": {
+			"name": "General Products Exoskeleton (Series-A)"
+		},
+		"General Products Exoskeleton (Series-B)": {
+			"name": "General Products Exoskeleton (Series-B)"
+		},
+		"Gills(Fresh water)": {
+			"name": "Gills(Fresh water)"
+		},
+		"GPS Module": {
+			"name": "GPS Module"
+		},
+		"GPS Module w/screen": {
+			"name": "GPS Module w/screen"
+		},
+		"Grafted Muscle I": {
+			"name": "Grafted Muscle I"
+		},
+		"Grafted Muscle II": {
+			"name": "Grafted Muscle II"
+		},
+		"Grapple Hand": {
+			"name": "Grapple Hand"
+		},
+		"Grenade Launcher": {
+			"name": "Grenade Launcher"
+		},
+		"Grip Foot": {
+			"name": "Grip Foot"
+		},
+		"Gyro-Stabilizer": {
+			"name": "Gyro-Stabilizer"
+		},
+		"Hammer Hand": {
+			"name": "Hammer Hand"
+		},
+		"Hammerhand": {
+			"name": "Hammerhand"
+		},
+		"Hidden Holster": {
+			"name": "Hidden Holster"
+		},
+		"High Five, AKA The Palm Bomb": {
+			"name": "High Five, AKA The Palm Bomb"
+		},
+		"Hollow Claws": {
+			"name": "Hollow Claws"
+		},
+		"Hollow Vampires": {
+			"name": "Hollow Vampires"
+		},
+		"Homing Tracer": {
+			"name": "Homing Tracer"
+		},
+		"Hydraulic Rams": {
+			"name": "Hydraulic Rams"
+		},
+		"Hydrosubsidium Aquagoggs": {
+			"name": "Hydrosubsidium Aquagoggs"
+		},
+		"Icer": {
+			"name": "Icer"
+		},
+		"IEC Venom Hand": {
+			"name": "IEC Venom Hand"
+		},
+		"Ignore Pain": {
+			"name": "Ignore Pain"
+		},
+		"IHAG Nictating Membrane": {
+			"name": "IHAG Nictating Membrane"
+		},
+		"Image Enhancement": {
+			"name": "Image Enhancement"
+		},
+		"Independent Air Supply": {
+			"name": "Independent Air Supply"
+		},
+		"Independent Cyberhand": {
+			"name": "Independent Cyberhand"
+		},
+		"Infrared": {
+			"name": "Infrared"
+		},
+		"Interface Plugs": {
+			"name": "Interface Plugs"
+		},
+		"IR/UV Flashlight": {
+			"name": "IR/UV Flashlight"
+		},
+		"Kerenzikov Boosterware I": {
+			"name": "Kerenzikov Boosterware I"
+		},
+		"Kerenzikov Boosterware II": {
+			"name": "Kerenzikov Boosterware II"
+		},
+		"Kill Display": {
+			"name": "Kill Display"
+		},
+		"Kiroshi MonoVision": {
+			"name": "Kiroshi MonoVision"
+		},
+		"Kiroshi Optics \"Tricloptics\" Third Eye": {
+			"name": "Kiroshi Optics \"Tricloptics\" Third Eye"
+		},
+		"Kiroshi Optics Cyberoptic Interferometry System": {
+			"name": "Kiroshi Optics Cyberoptic Interferometry System"
+		},
+		"Laser Mike": {
+			"name": "Laser Mike"
+		},
+		"Laser Pointer": {
+			"name": "Laser Pointer"
+		},
+		"Laser-Comm Optic": {
+			"name": "Laser-Comm Optic"
+		},
+		"LCD Screen Readout": {
+			"name": "LCD Screen Readout"
+		},
+		"Lead's Show-Off Nails": {
+			"name": "Lead's Show-Off Nails"
+		},
+		"Lead's Turn-On Nails": {
+			"name": "Lead's Turn-On Nails"
+		},
+		"Leg Boosters": {
+			"name": "Leg Boosters"
+		},
+		"Level Damper": {
+			"name": "Level Damper"
+		},
+		"Life Scan Body Monitor": {
+			"name": "Life Scan Body Monitor"
+		},
+		"Life Vision Revelation Cyberoptic": {
+			"name": "Life Vision Revelation Cyberoptic"
+		},
+		"LifeSaver Skinweave": {
+			"name": "LifeSaver Skinweave"
+		},
+		"Light Pen": {
+			"name": "Light Pen"
+		},
+		"Light Tattoo": {
+			"name": "Light Tattoo"
+		},
+		"Lighter": {
+			"name": "Lighter"
+		},
+		"LimbLink": {
+			"name": "LimbLink"
+		},
+		"Limblite": {
+			"name": "Limblite"
+		},
+		"LInear Beta": {
+			"name": "LInear Beta"
+		},
+		"Linear Omega": {
+			"name": "Linear Omega"
+		},
+		"Linear Sigma": {
+			"name": "Linear Sigma"
+		},
+		"Live Feed Optic": {
+			"name": "Live Feed Optic"
+		},
+		"LiveWires": {
+			"name": "LiveWires"
+		},
+		"Lockdown": {
+			"name": "Lockdown"
+		},
+		"Locking Joints": {
+			"name": "Locking Joints"
+		},
+		"Lockpick": {
+			"name": "Lockpick"
+		},
+		"Low Lite": {
+			"name": "Low Lite"
+		},
+		"Mace Hand": {
+			"name": "Mace Hand"
+		},
+		"Mace Sprayer": {
+			"name": "Mace Sprayer"
+		},
+		"Machine/Tech Link": {
+			"name": "Machine/Tech Link"
+		},
+		"Mag-Duct Spots": {
+			"name": "Mag-Duct Spots"
+		},
+		"Magnetic Hands/Feet": {
+			"name": "Magnetic Hands/Feet"
+		},
+		"Mandibles": {
+			"name": "Mandibles"
+		},
+		"Mediaware Cellular-Phone": {
+			"name": "Mediaware Cellular-Phone"
+		},
+		"Medical Modular Cyberhand - independent": {
+			"name": "Medical Modular Cyberhand - independent"
+		},
+		"Medical Modular Cyberhand - part of cyberarm": {
+			"name": "Medical Modular Cyberhand - part of cyberarm"
+		},
+		"Metaheme Hemological Replacement": {
+			"name": "Metaheme Hemological Replacement"
+		},
+		"Micro-missile Launcher": {
+			"name": "Micro-missile Launcher"
+		},
+		"Micro-optics": {
+			"name": "Micro-optics"
+		},
+		"Micro-recorder Link": {
+			"name": "Micro-recorder Link"
+		},
+		"MicroVideo": {
+			"name": "MicroVideo"
+		},
+		"Microwaldo Bracer": {
+			"name": "Microwaldo Bracer"
+		},
+		"Microwave/EMP shielding": {
+			"name": "Microwave/EMP shielding"
+		},
+		"Midnight Lady Implant": {
+			"name": "Midnight Lady Implant"
+		},
+		"Military Sonar": {
+			"name": "Military Sonar"
+		},
+		"Militech Cyberdoc Emergency Medkit": {
+			"name": "Militech Cyberdoc Emergency Medkit"
+		},
+		"Mini Light": {
+			"name": "Mini Light"
+		},
+		"MiniCam": {
+			"name": "MiniCam"
+		},
+		"MiniVid": {
+			"name": "MiniVid"
+		},
+		"Moddy Link": {
+			"name": "Moddy Link"
+		},
+		"Model 100 Interface Plugs": {
+			"name": "Model 100 Interface Plugs"
+		},
+		"Modular Hand": {
+			"name": "Modular Hand"
+		},
+		"Motion Detector": {
+			"name": "Motion Detector"
+		},
+		"Mr Studd Sexual Implant": {
+			"name": "Mr Studd Sexual Implant"
+		},
+		"Muscle and Bone Lace": {
+			"name": "Muscle and Bone Lace"
+		},
+		"Muscle Enhancement": {
+			"name": "Muscle Enhancement"
+		},
+		"N-A C Freezeban Bioconstruct": {
+			"name": "N-A C Freezeban Bioconstruct"
+		},
+		"N-A C Kaloric Secondary Gut": {
+			"name": "N-A C Kaloric Secondary Gut"
+		},
+		"N-A C Quickclot Hemofibrinic Node": {
+			"name": "N-A C Quickclot Hemofibrinic Node"
+		},
+		"Nano optical Upgrade": {
+			"name": "Nano optical Upgrade"
+		},
+		"NanoAuditory Rebuild": {
+			"name": "NanoAuditory Rebuild"
+		},
+		"Nanosurgeons": {
+			"name": "Nanosurgeons"
+		},
+		"Nasal Filters": {
+			"name": "Nasal Filters"
+		},
+		"NeoAppendix": {
+			"name": "NeoAppendix"
+		},
+		"NeoLungs": {
+			"name": "NeoLungs"
+		},
+		"Neural ULF Transceiver": {
+			"name": "Neural ULF Transceiver"
+		},
+		"Neuralware Processor": {
+			"name": "Neuralware Processor"
+		},
+		"NewTeeth": {
+			"name": "NewTeeth"
+		},
+		"Nictating Membrane": {
+			"name": "Nictating Membrane"
+		},
+		"Nikkon Double-Slit Pupils": {
+			"name": "Nikkon Double-Slit Pupils"
+		},
+		"Nitrogen Binders": {
+			"name": "Nitrogen Binders"
+		},
+		"Nu-Tek TV Skin": {
+			"name": "Nu-Tek TV Skin"
+		},
+		"Olfactory Boost": {
+			"name": "Olfactory Boost"
+		},
+		"One-Shot Special": {
+			"name": "One-Shot Special"
+		},
+		"Optical Interface": {
+			"name": "Optical Interface"
+		},
+		"OptiShield": {
+			"name": "OptiShield"
+		},
+		"OptiShield Options": {
+			"name": "OptiShield Options"
+		},
+		"Orbital Crystal Cyberarm": {
+			"name": "Orbital Crystal Cyberarm"
+		},
+		"Orbital Crystal Cyberleg": {
+			"name": "Orbital Crystal Cyberleg"
+		},
+		"OTEC Ear Valve": {
+			"name": "OTEC Ear Valve"
+		},
+		"Pacesetter Heart": {
+			"name": "Pacesetter Heart"
+		},
+		"Pacesetter2000 Heart": {
+			"name": "Pacesetter2000 Heart"
+		},
+		"Pain Editor": {
+			"name": "Pain Editor"
+		},
+		"Parabolic Microphone": {
+			"name": "Parabolic Microphone"
+		},
+		"Permanent +1 ATT Increase": {
+			"name": "Permanent +1 ATT Increase"
+		},
+		"Permanent +1 BOD Increase": {
+			"name": "Permanent +1 BOD Increase"
+		},
+		"Permanent +1 MA Increase": {
+			"name": "Permanent +1 MA Increase"
+		},
+		"Permanent +1 REF Increase": {
+			"name": "Permanent +1 REF Increase"
+		},
+		"Permanent +2 ATT Increase": {
+			"name": "Permanent +2 ATT Increase"
+		},
+		"Permanent +2 BOD Increase": {
+			"name": "Permanent +2 BOD Increase"
+		},
+		"Permanent +2 MA Increase": {
+			"name": "Permanent +2 MA Increase"
+		},
+		"Permanent +3 ATT Increase": {
+			"name": "Permanent +3 ATT Increase"
+		},
+		"Permanent +3 MA Increase": {
+			"name": "Permanent +3 MA Increase"
+		},
+		"Permanent +4 MA Increase": {
+			"name": "Permanent +4 MA Increase"
+		},
+		"Phone Splice": {
+			"name": "Phone Splice"
+		},
+		"Plastic Covering": {
+			"name": "Plastic Covering"
+		},
+		"Poison Gland": {
+			"name": "Poison Gland"
+		},
+		"Poison Sac": {
+			"name": "Poison Sac"
+		},
+		"Pop-Up Hand Crossbow": {
+			"name": "Pop-Up Hand Crossbow"
+		},
+		"Popup Gun": {
+			"name": "Popup Gun"
+		},
+		"Popup Sliver Gun": {
+			"name": "Popup Sliver Gun"
+		},
+		"Power Jaw": {
+			"name": "Power Jaw"
+		},
+		"Preparatory DNA Mapping": {
+			"name": "Preparatory DNA Mapping"
+		},
+		"Probe Link": {
+			"name": "Probe Link"
+		},
+		"Programmable Retinas": {
+			"name": "Programmable Retinas"
+		},
+		"Quick Change Mount": {
+			"name": "Quick Change Mount"
+		},
+		"Quick Change Mount Digit": {
+			"name": "Quick Change Mount Digit"
+		},
+		"Quick-Change Mount": {
+			"name": "Quick-Change Mount"
+		},
+		"Quickdraw Holster": {
+			"name": "Quickdraw Holster"
+		},
+		"Rad Weave": {
+			"name": "Rad Weave"
+		},
+		"Radar Detector": {
+			"name": "Radar Detector"
+		},
+		"Radar Sensor": {
+			"name": "Radar Sensor"
+		},
+		"Radiation Detector": {
+			"name": "Radiation Detector"
+		},
+		"Radio Link": {
+			"name": "Radio Link"
+		},
+		"Raven Advanced Biomonitor": {
+			"name": "Raven Advanced Biomonitor"
+		},
+		"Reactive Body Plating": {
+			"name": "Reactive Body Plating"
+		},
+		"RealSkinn Covering": {
+			"name": "RealSkinn Covering"
+		},
+		"Rebreather/Enhanced Lungs": {
+			"name": "Rebreather/Enhanced Lungs"
+		},
+		"Reduced Oxygen Demand": {
+			"name": "Reduced Oxygen Demand"
+		},
+		"Reflex Boost": {
+			"name": "Reflex Boost"
+		},
+		"Reinforced Joints": {
+			"name": "Reinforced Joints"
+		},
+		"Remote Eye": {
+			"name": "Remote Eye"
+		},
+		"Replitech Toxin Screen": {
+			"name": "Replitech Toxin Screen"
+		},
+		"Retractable Needle": {
+			"name": "Retractable Needle"
+		},
+		"Retractable Vampires/Sharkgrin": {
+			"name": "Retractable Vampires/Sharkgrin"
+		},
+		"Revolution Genetics Flashlite Implant": {
+			"name": "Revolution Genetics Flashlite Implant"
+		},
+		"Revolution Genetics Poison Glands- Hands - Biotoxin I": {
+			"name": "Revolution Genetics Poison Glands- Hands - Biotoxin I"
+		},
+		"Revolution Genetics Poison Glands- Hands - Hallucinogen": {
+			"name": "Revolution Genetics Poison Glands- Hands - Hallucinogen"
+		},
+		"Revolution Genetics Poison Glands- Hands - nausea/somatic": {
+			"name": "Revolution Genetics Poison Glands- Hands - nausea/somatic"
+		},
+		"Revolution Genetics Poison Glands- Teeth - Biotoxin I": {
+			"name": "Revolution Genetics Poison Glands- Teeth - Biotoxin I"
+		},
+		"Revolution Genetics Poison Glands- Teeth - Halllucinogen/Nausea/Somatic": {
+			"name": "Revolution Genetics Poison Glands- Teeth - Halllucinogen/Nausea/Somatic"
+		},
+		"Revolution Genetics Tailored Pheromones-Confu": {
+			"name": "Revolution Genetics Tailored Pheromones-Confu"
+		},
+		"Revolution Genetics Tailored Pheromones-Gullible": {
+			"name": "Revolution Genetics Tailored Pheromones-Gullible"
+		},
+		"Revolution Genetics Tailored Pheromones-Love": {
+			"name": "Revolution Genetics Tailored Pheromones-Love"
+		},
+		"Ripper Hand": {
+			"name": "Ripper Hand"
+		},
+		"Rippers": {
+			"name": "Rippers"
+		},
+		"Romanova Cyberlegs": {
+			"name": "Romanova Cyberlegs"
+		},
+		"Sabre Serum RNA Mod": {
+			"name": "Sabre Serum RNA Mod"
+		},
+		"Saltwater Gills": {
+			"name": "Saltwater Gills"
+		},
+		"Sandevistan Speedware": {
+			"name": "Sandevistan Speedware"
+		},
+		"Scrambler": {
+			"name": "Scrambler"
+		},
+		"Scratchers": {
+			"name": "Scratchers"
+		},
+		"Sectional Cybernetics Mount": {
+			"name": "Sectional Cybernetics Mount"
+		},
+		"Self-Propelled Grenade": {
+			"name": "Self-Propelled Grenade"
+		},
+		"Sensory Extensions": {
+			"name": "Sensory Extensions"
+		},
+		"ShareChecker™ Link": {
+			"name": "ShareChecker™ Link"
+		},
+		"Shift-tacts": {
+			"name": "Shift-tacts"
+		},
+		"Sinus Reconstruction": {
+			"name": "Sinus Reconstruction"
+		},
+		"Skate Foot": {
+			"name": "Skate Foot"
+		},
+		"Skill +1": {
+			"name": "Skill +1"
+		},
+		"Skill +2": {
+			"name": "Skill +2"
+		},
+		"Skill +3": {
+			"name": "Skill +3"
+		},
+		"Skinwatch": {
+			"name": "Skinwatch"
+		},
+		"Skinweave SP12": {
+			"name": "Skinweave SP12"
+		},
+		"Slice N' Dice": {
+			"name": "Slice N' Dice"
+		},
+		"Smartgun Link": {
+			"name": "Smartgun Link"
+		},
+		"SmartPlate Weapons Link": {
+			"name": "SmartPlate Weapons Link"
+		},
+		"Sonar Implant": {
+			"name": "Sonar Implant"
+		},
+		"Sound Editing": {
+			"name": "Sound Editing"
+		},
+		"Soviet Cyberarm": {
+			"name": "Soviet Cyberarm"
+		},
+		"Soviet Cyberaudio": {
+			"name": "Soviet Cyberaudio"
+		},
+		"Soviet Cyberleg": {
+			"name": "Soviet Cyberleg"
+		},
+		"Soviet Cyberoptic": {
+			"name": "Soviet Cyberoptic"
+		},
+		"SovWear Cyberarm": {
+			"name": "SovWear Cyberarm"
+		},
+		"SovWear Cyberleg": {
+			"name": "SovWear Cyberleg"
+		},
+		"Spectrum Cyberaudio: inner/outer Ear": {
+			"name": "Spectrum Cyberaudio: inner/outer Ear"
+		},
+		"Spectrum Cyberaudio: Omnidirectional": {
+			"name": "Spectrum Cyberaudio: Omnidirectional"
+		},
+		"Spectrum Cyberaudio: Outer Ear": {
+			"name": "Spectrum Cyberaudio: Outer Ear"
+		},
+		"Speeding Bullet": {
+			"name": "Speeding Bullet"
+		},
+		"Spike Hand": {
+			"name": "Spike Hand"
+		},
+		"Spike Heel Foot": {
+			"name": "Spike Heel Foot"
+		},
+		"Spiked Limb Cover": {
+			"name": "Spiked Limb Cover"
+		},
+		"Spyke!Furniture: Arms": {
+			"name": "Spyke!Furniture: Arms"
+		},
+		"Spyke!Furniture: Head": {
+			"name": "Spyke!Furniture: Head"
+		},
+		"Spyke!Furniture: Legs": {
+			"name": "Spyke!Furniture: Legs"
+		},
+		"Spyke!Furniture: Torso": {
+			"name": "Spyke!Furniture: Torso"
+		},
+		"Standard Cyberarm": {
+			"name": "Standard Cyberarm"
+		},
+		"Standard Cyberleg": {
+			"name": "Standard Cyberleg"
+		},
+		"Standard Foot": {
+			"name": "Standard Foot"
+		},
+		"Standard Hand": {
+			"name": "Standard Hand"
+		},
+		"Stinger": {
+			"name": "Stinger"
+		},
+		"Storage Compartment": {
+			"name": "Storage Compartment"
+		},
+		"Storage Space": {
+			"name": "Storage Space"
+		},
+		"Subdermal Armor": {
+			"name": "Subdermal Armor"
+		},
+		"Subdermal Pocket": {
+			"name": "Subdermal Pocket"
+		},
+		"Subdermal Skull Armor SP10": {
+			"name": "Subdermal Skull Armor SP10"
+		},
+		"Subdermal Skull Armor SP12": {
+			"name": "Subdermal Skull Armor SP12"
+		},
+		"Subdermal Skull Armor SP14": {
+			"name": "Subdermal Skull Armor SP14"
+		},
+		"Subdermal Skull Armor SP4": {
+			"name": "Subdermal Skull Armor SP4"
+		},
+		"Subdermal Skull Armor SP6": {
+			"name": "Subdermal Skull Armor SP6"
+		},
+		"Subdermal Skull Armor SP8": {
+			"name": "Subdermal Skull Armor SP8"
+		},
+		"Subdermal Smartgun Link": {
+			"name": "Subdermal Smartgun Link"
+		},
+		"Subdermal Torso Armor SP 22": {
+			"name": "Subdermal Torso Armor SP 22"
+		},
+		"Subdermal Torso Armor SP10": {
+			"name": "Subdermal Torso Armor SP10"
+		},
+		"Subdermal Torso Armor SP12": {
+			"name": "Subdermal Torso Armor SP12"
+		},
+		"Subdermal Torso Armor SP14": {
+			"name": "Subdermal Torso Armor SP14"
+		},
+		"Subdermal Torso Armor SP16": {
+			"name": "Subdermal Torso Armor SP16"
+		},
+		"Subdermal Torso Armor SP18": {
+			"name": "Subdermal Torso Armor SP18"
+		},
+		"Subdermal Torso Armor SP20": {
+			"name": "Subdermal Torso Armor SP20"
+		},
+		"Subdermal Torso Armor SP6": {
+			"name": "Subdermal Torso Armor SP6"
+		},
+		"Subdermal Torso Armor SP8": {
+			"name": "Subdermal Torso Armor SP8"
+		},
+		"Subdermal Viewscreen": {
+			"name": "Subdermal Viewscreen"
+		},
+		"Subsonic": {
+			"name": "Subsonic"
+		},
+		"Sunblocker Sunscreen": {
+			"name": "Sunblocker Sunscreen"
+		},
+		"Super Compact Braindance": {
+			"name": "Super Compact Braindance"
+		},
+		"Super High Density RAM": {
+			"name": "Super High Density RAM"
+		},
+		"Super Sized Arm": {
+			"name": "Super Sized Arm"
+		},
+		"Superchrome Covering": {
+			"name": "Superchrome Covering"
+		},
+		"Synthskin Tuning Chips": {
+			"name": "Synthskin Tuning Chips"
+		},
+		"Synthskins": {
+			"name": "Synthskins"
+		},
+		"T-Maxx 2 Cyberliver": {
+			"name": "T-Maxx 2 Cyberliver"
+		},
+		"T-Maxx Cyberliver": {
+			"name": "T-Maxx Cyberliver"
+		},
+		"T-Maxx Ileocecal Siphon": {
+			"name": "T-Maxx Ileocecal Siphon"
+		},
+		"Tactile Boost": {
+			"name": "Tactile Boost"
+		},
+		"Talon Foot": {
+			"name": "Talon Foot"
+		},
+		"Targeting Scope": {
+			"name": "Targeting Scope"
+		},
+		"Taste Boost": {
+			"name": "Taste Boost"
+		},
+		"Tazer Grip": {
+			"name": "Tazer Grip"
+		},
+		"Tear Gas Sprayer": {
+			"name": "Tear Gas Sprayer"
+		},
+		"Techhair": {
+			"name": "Techhair"
+		},
+		"Techscanner": {
+			"name": "Techscanner"
+		},
+		"Teleoptics": {
+			"name": "Teleoptics"
+		},
+		"Tentacle Arm": {
+			"name": "Tentacle Arm"
+		},
+		"Tentacle Arm Sheath": {
+			"name": "Tentacle Arm Sheath"
+		},
+		"Tentacle Arm, Extendable": {
+			"name": "Tentacle Arm, Extendable"
+		},
+		"Tentacle Finger": {
+			"name": "Tentacle Finger"
+		},
+		"Tentacle Finger, Extendable": {
+			"name": "Tentacle Finger, Extendable"
+		},
+		"The Crawler Surveillance Cyberhand": {
+			"name": "The Crawler Surveillance Cyberhand"
+		},
+		"ThermalWeave": {
+			"name": "ThermalWeave"
+		},
+		"Thermaskin": {
+			"name": "Thermaskin"
+		},
+		"Thermograph Sensor": {
+			"name": "Thermograph Sensor"
+		},
+		"Thickened Myomar": {
+			"name": "Thickened Myomar"
+		},
+		"Tight Beam Radio Link": {
+			"name": "Tight Beam Radio Link"
+		},
+		"Times Square Marquee": {
+			"name": "Times Square Marquee"
+		},
+		"Times Square Plus": {
+			"name": "Times Square Plus"
+		},
+		"Tool Foot": {
+			"name": "Tool Foot"
+		},
+		"Tool Hand": {
+			"name": "Tool Hand"
+		},
+		"Torso Plate": {
+			"name": "Torso Plate"
+		},
+		"Total Body Plating": {
+			"name": "Total Body Plating"
+		},
+		"Toughened Skin": {
+			"name": "Toughened Skin"
+		},
+		"Toxin Binders": {
+			"name": "Toxin Binders"
+		},
+		"Tracking Device": {
+			"name": "Tracking Device"
+		},
+		"Tri-Dart Launcher": {
+			"name": "Tri-Dart Launcher"
+		},
+		"Ubermensch Pain Editor": {
+			"name": "Ubermensch Pain Editor"
+		},
+		"Ubermensch Speedware": {
+			"name": "Ubermensch Speedware"
+		},
+		"ULF Antenna": {
+			"name": "ULF Antenna"
+		},
+		"Ultra Violet": {
+			"name": "Ultra Violet"
+		},
+		"Universal Link": {
+			"name": "Universal Link"
+		},
+		"Upgraded Skinweave SP10": {
+			"name": "Upgraded Skinweave SP10"
+		},
+		"Upgraded Skinweave SP14": {
+			"name": "Upgraded Skinweave SP14"
+		},
+		"Upgraded Skinweave SP16": {
+			"name": "Upgraded Skinweave SP16"
+		},
+		"Upgraded Skinweave SP6": {
+			"name": "Upgraded Skinweave SP6"
+		},
+		"Upgraded Skinweave SP8": {
+			"name": "Upgraded Skinweave SP8"
+		},
+		"UV Blockers": {
+			"name": "UV Blockers"
+		},
+		"UV Resistance": {
+			"name": "UV Resistance"
+		},
+		"Vac Weave": {
+			"name": "Vac Weave"
+		},
+		"Vacuum Proof Optic": {
+			"name": "Vacuum Proof Optic"
+		},
+		"Vampires - Canines": {
+			"name": "Vampires - Canines"
+		},
+		"Vampires - Sharkgrin Special": {
+			"name": "Vampires - Sharkgrin Special"
+		},
+		"Vehicle Link": {
+			"name": "Vehicle Link"
+		},
+		"Verbal-Eyes (Basic)": {
+			"name": "Verbal-Eyes (Basic)"
+		},
+		"Verbal-Eyes (Cust. image)": {
+			"name": "Verbal-Eyes (Cust. image)"
+		},
+		"Verbal-Eyes (Vid Image)": {
+			"name": "Verbal-Eyes (Vid Image)"
+		},
+		"VidCam (+1 option)": {
+			"name": "VidCam (+1 option)"
+		},
+		"Video Cam/Transmitter": {
+			"name": "Video Cam/Transmitter"
+		},
+		"Video Imager": {
+			"name": "Video Imager"
+		},
+		"Voice Pattern": {
+			"name": "Voice Pattern"
+		},
+		"Voice Stress Analyzer": {
+			"name": "Voice Stress Analyzer"
+		},
+		"Voice Synthesizer": {
+			"name": "Voice Synthesizer"
+		},
+		"Volume": {
+			"name": "Volume"
+		},
+		"Watch-Man": {
+			"name": "Watch-Man"
+		},
+		"Water Refiltration System": {
+			"name": "Water Refiltration System"
+		},
+		"Waterproofing": {
+			"name": "Waterproofing"
+		},
+		"Weapon Mount & Link": {
+			"name": "Weapon Mount & Link"
+		},
+		"Wearman": {
+			"name": "Wearman"
+		},
+		"Wearman Mk.2": {
+			"name": "Wearman Mk.2"
+		},
+		"Web Foot": {
+			"name": "Web Foot"
+		},
+		"Wet Drive": {
+			"name": "Wet Drive"
+		},
+		"Wetdrive Access Link": {
+			"name": "Wetdrive Access Link"
+		},
+		"Wetwiring": {
+			"name": "Wetwiring"
+		},
+		"Whip": {
+			"name": "Whip"
+		},
+		"Wide Band Radio Scanner": {
+			"name": "Wide Band Radio Scanner"
+		},
+		"Winch": {
+			"name": "Winch"
+		},
+		"Wirecutters/Scissors": {
+			"name": "Wirecutters/Scissors"
+		},
+		"Wirehead Unit": {
+			"name": "Wirehead Unit"
+		},
+		"Wolvers": {
+			"name": "Wolvers"
+		},
+		"Zetatech Bodycomp": {
+			"name": "Zetatech Bodycomp"
+		}
+	}
+}

@@ -1,0 +1,53 @@
+{
+  "label": "Броня",
+  "entries": {
+    "Armor Jacket – Heavy": {
+      "name": "Тяжёлая броне-куртка"
+    },
+    "Armor Jacket – Light": {
+      "name": "Лёгкая броне-куртка"
+    },
+    "Armor Jacket – Medium": {
+      "name": "Средняя броне-куртка"
+    },
+    "Cloth Leather": {
+      "name": "Одежда, кожа"
+    },
+    "Door Gunners Vest": {
+      "name": "Бронежилет борт-стрелка"
+    },
+    "Flack Pants": {
+      "name": "Бронированные брюки"
+    },
+    "Flack Vest": {
+      "name": "Бронированный жилет"
+    },
+    "HeadGear Cybermodem Helmet": {
+      "name": "HeadGear Cybermodem Helmet"
+    },
+    "Heavy Leather": {
+      "name": "Тяжелая кожа"
+    },
+    "Kevlar T-Shirt": {
+      "name": "Кевларовая футболка"
+    },
+    "Kevlar Vest": {
+      "name": "Кевларовый жилет"
+    },
+    "Metal Gear": {
+      "name": "МеталГир™"
+    },
+    "Net-Runner Cybermodem Utility Suit CD": {
+      "name": "Net-Runner Cybermodem Utility Suit CD"
+    },
+    "Net-Runner Cybermodem Utility Suit PD": {
+      "name": "Net-Runner Cybermodem Utility Suit PD"
+    },
+    "Nylon Helmet": {
+      "name": "Нейлоновый шлем"
+    },
+    "Steel Helmet": {
+      "name": "Стальной шлем"
+    }
+  }
+}

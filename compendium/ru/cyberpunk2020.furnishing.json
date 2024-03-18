@@ -1,0 +1,35 @@
+{
+	"label": "Мебель",
+	"entries": {
+		"Apartment Cube": {
+			"name": "Apartment Cube"
+		},
+		"Cleaning Bot": {
+			"name": "Cleaning Bot"
+		},
+		"Futon": {
+			"name": "Futon"
+		},
+		"Inflatable Bed": {
+			"name": "Inflatable Bed"
+		},
+		"Lamp": {
+			"name": "Lamp"
+		},
+		"Nylon Carrybag": {
+			"name": "Nylon Carrybag"
+		},
+		"Real world Furniture": {
+			"name": "Real world Furniture"
+		},
+		"Sleeping Bag": {
+			"name": "Sleeping Bag"
+		},
+		"Synthetic Furniture": {
+			"name": "Synthetic Furniture"
+		},
+		"Vocal Switcher System": {
+			"name": "Vocal Switcher System"
+		}
+	}
+}
